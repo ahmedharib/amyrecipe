@@ -19,7 +19,10 @@ weights/
 # Node / React (keep frontend/dist tracked so professor can run without Node build step)
 frontend/node_modules/
 
-# Logs & OS
+# Logs, OS & large local video recordings (hosted on YouTube/Drive per 7.2)
 *.log
+*.mp4
+*.mov
+*.mkv
 .DS_Store
 Thumbs.db
