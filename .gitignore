@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Datasets & large weights (excluded per R7)
+data/raw/
+data/food101_10class/
+checkpoints/
+weights/
+*.pth
+*.pt
+*.onnx
+*.onnx.data
+*.bin
+*.safetensors
+
+# Node / React (keep frontend/dist tracked so professor can run without Node build step)
+frontend/node_modules/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db

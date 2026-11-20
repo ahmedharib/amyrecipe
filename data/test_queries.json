@@ -1,0 +1,507 @@
+[
+  {
+    "id": "q_001",
+    "query": "vegetarian pizza under 30 minutes",
+    "dish_hint": "pizza",
+    "relevant_ids": [
+      "rec_102",
+      "rec_107",
+      "rec_112",
+      "rec_113",
+      "rec_117",
+      "rec_190",
+      "rec_191",
+      "rec_193",
+      "rec_194",
+      "rec_195"
+    ]
+  },
+  {
+    "id": "q_002",
+    "query": "vegan plant-based pizza dairy free",
+    "dish_hint": "pizza",
+    "relevant_ids": [
+      "rec_122",
+      "rec_191",
+      "rec_193",
+      "rec_194",
+      "rec_195"
+    ]
+  },
+  {
+    "id": "q_003",
+    "query": "gluten free pizza under 30 mins",
+    "dish_hint": "pizza",
+    "relevant_ids": [
+      "rec_102",
+      "rec_107",
+      "rec_108",
+      "rec_112",
+      "rec_113",
+      "rec_117",
+      "rec_118",
+      "rec_121",
+      "rec_191",
+      "rec_194",
+      "rec_195"
+    ]
+  },
+  {
+    "id": "q_004",
+    "query": "spicy pepperoni pizza",
+    "dish_hint": "pizza",
+    "relevant_ids": [
+      "rec_192"
+    ]
+  },
+  {
+    "id": "q_005",
+    "query": "quick meatless noodle stir fry under 20 min",
+    "dish_hint": "pad_thai",
+    "relevant_ids": [
+      "rec_178",
+      "rec_181",
+      "rec_182"
+    ]
+  },
+  {
+    "id": "q_006",
+    "query": "spicy shrimp pad thai",
+    "dish_hint": "pad_thai",
+    "relevant_ids": [
+      "rec_179",
+      "rec_183"
+    ]
+  },
+  {
+    "id": "q_007",
+    "query": "vegan gluten free pad thai",
+    "dish_hint": "pad_thai",
+    "relevant_ids": [
+      "rec_178",
+      "rec_182"
+    ]
+  },
+  {
+    "id": "q_008",
+    "query": "quick pad thai in 20 minutes",
+    "dish_hint": "pad_thai",
+    "relevant_ids": [
+      "rec_178",
+      "rec_179",
+      "rec_181",
+      "rec_182",
+      "rec_183"
+    ]
+  },
+  {
+    "id": "q_009",
+    "query": "quick vegan ramen under 20 minutes",
+    "dish_hint": "ramen",
+    "relevant_ids": [
+      "rec_196",
+      "rec_199",
+      "rec_201"
+    ]
+  },
+  {
+    "id": "q_010",
+    "query": "spicy plant based noodle soup",
+    "dish_hint": "ramen",
+    "relevant_ids": [
+      "rec_124",
+      "rec_196",
+      "rec_199",
+      "rec_201"
+    ]
+  },
+  {
+    "id": "q_011",
+    "query": "gluten free dairy free ramen",
+    "dish_hint": "ramen",
+    "relevant_ids": [
+      "rec_127",
+      "rec_201"
+    ]
+  },
+  {
+    "id": "q_012",
+    "query": "high protein chicken ramen bowl",
+    "dish_hint": "ramen",
+    "relevant_ids": [
+      "rec_125",
+      "rec_126",
+      "rec_127",
+      "rec_197"
+    ]
+  },
+  {
+    "id": "q_013",
+    "query": "vegan gluten free sushi under 25 min",
+    "dish_hint": "sushi",
+    "relevant_ids": [
+      "rec_130",
+      "rec_202",
+      "rec_204",
+      "rec_206"
+    ]
+  },
+  {
+    "id": "q_014",
+    "query": "quick spicy tuna or salmon sushi bowl",
+    "dish_hint": "sushi",
+    "relevant_ids": [
+      "rec_203",
+      "rec_205"
+    ]
+  },
+  {
+    "id": "q_015",
+    "query": "plant based avocado roll",
+    "dish_hint": "sushi",
+    "relevant_ids": [
+      "rec_202",
+      "rec_204",
+      "rec_206"
+    ]
+  },
+  {
+    "id": "q_016",
+    "query": "gluten free sushi with tofu",
+    "dish_hint": "sushi",
+    "relevant_ids": [
+      "rec_204"
+    ]
+  },
+  {
+    "id": "q_017",
+    "query": "vegetarian tacos under 20 minutes",
+    "dish_hint": "tacos",
+    "relevant_ids": [
+      "rec_144",
+      "rec_208",
+      "rec_212"
+    ]
+  },
+  {
+    "id": "q_018",
+    "query": "spicy vegan gluten free street tacos",
+    "dish_hint": "tacos",
+    "relevant_ids": [
+      "rec_139",
+      "rec_208",
+      "rec_212"
+    ]
+  },
+  {
+    "id": "q_019",
+    "query": "high protein chicken tacos under 25 mins",
+    "dish_hint": "tacos",
+    "relevant_ids": [
+      "rec_138",
+      "rec_210"
+    ]
+  },
+  {
+    "id": "q_020",
+    "query": "dairy free fish tacos",
+    "dish_hint": "tacos",
+    "relevant_ids": [
+      "rec_209"
+    ]
+  },
+  {
+    "id": "q_021",
+    "query": "vegetarian caesar salad in 15 min",
+    "dish_hint": "caesar_salad",
+    "relevant_ids": [
+      "rec_155",
+      "rec_156",
+      "rec_159"
+    ]
+  },
+  {
+    "id": "q_022",
+    "query": "vegan chickpea tahini caesar",
+    "dish_hint": "caesar_salad",
+    "relevant_ids": [
+      "rec_156",
+      "rec_158"
+    ]
+  },
+  {
+    "id": "q_023",
+    "query": "high protein grilled chicken caesar",
+    "dish_hint": "caesar_salad",
+    "relevant_ids": [
+      "rec_007",
+      "rec_154"
+    ]
+  },
+  {
+    "id": "q_024",
+    "query": "gluten free tofu caesar salad",
+    "dish_hint": "caesar_salad",
+    "relevant_ids": [
+      "rec_158"
+    ]
+  },
+  {
+    "id": "q_025",
+    "query": "gluten free dairy free chocolate cake",
+    "dish_hint": "chocolate_cake",
+    "relevant_ids": [
+      "rec_009",
+      "rec_031"
+    ]
+  },
+  {
+    "id": "q_026",
+    "query": "quick vegan chocolate dessert under 20 minutes",
+    "dish_hint": "chocolate_cake",
+    "relevant_ids": [
+      "rec_009"
+    ]
+  },
+  {
+    "id": "q_027",
+    "query": "spicy cinnamon dark chocolate cake",
+    "dish_hint": "chocolate_cake",
+    "relevant_ids": [
+      "rec_163"
+    ]
+  },
+  {
+    "id": "q_028",
+    "query": "high protein chocolate cake",
+    "dish_hint": "chocolate_cake",
+    "relevant_ids": [
+      "rec_011",
+      "rec_012",
+      "rec_013",
+      "rec_014",
+      "rec_015",
+      "rec_016",
+      "rec_017",
+      "rec_018",
+      "rec_019",
+      "rec_020",
+      "rec_021",
+      "rec_022",
+      "rec_023",
+      "rec_025",
+      "rec_026",
+      "rec_027",
+      "rec_028",
+      "rec_029",
+      "rec_160",
+      "rec_162",
+      "rec_165"
+    ]
+  },
+  {
+    "id": "q_029",
+    "query": "vegan black bean burger under 25 min",
+    "dish_hint": "hamburger",
+    "relevant_ids": [
+      "rec_167"
+    ]
+  },
+  {
+    "id": "q_031",
+    "query": "spicy jalapeno cheeseburger",
+    "dish_hint": "hamburger",
+    "relevant_ids": [
+      "rec_171"
+    ]
+  },
+  {
+    "id": "q_032",
+    "query": "quick vegetarian mushroom burger",
+    "dish_hint": "hamburger",
+    "relevant_ids": [
+      "rec_050",
+      "rec_168"
+    ]
+  },
+  {
+    "id": "q_033",
+    "query": "vegetarian vegetable lasagna",
+    "dish_hint": "lasagna",
+    "relevant_ids": [
+      "rec_077",
+      "rec_173",
+      "rec_175",
+      "rec_176"
+    ]
+  },
+  {
+    "id": "q_035",
+    "query": "quick skillet lasagna under 30 min",
+    "dish_hint": "lasagna",
+    "relevant_ids": [
+      "rec_059",
+      "rec_060",
+      "rec_061",
+      "rec_063",
+      "rec_064",
+      "rec_066",
+      "rec_068",
+      "rec_070",
+      "rec_075",
+      "rec_076",
+      "rec_077",
+      "rec_176"
+    ]
+  },
+  {
+    "id": "q_036",
+    "query": "high protein turkey zucchini lasagna",
+    "dish_hint": "lasagna",
+    "relevant_ids": [
+      "rec_076",
+      "rec_174",
+      "rec_175"
+    ]
+  },
+  {
+    "id": "q_038",
+    "query": "high protein oat pancakes in 15 min",
+    "dish_hint": "pancakes",
+    "relevant_ids": [
+      "rec_186"
+    ]
+  },
+  {
+    "id": "q_041",
+    "query": "meatless Italian baked pasta with spinach",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_077",
+      "rec_173",
+      "rec_175",
+      "rec_176"
+    ]
+  },
+  {
+    "id": "q_042",
+    "query": "celiac friendly crispy morning breakfast stack",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_078",
+      "rec_079",
+      "rec_080",
+      "rec_081",
+      "rec_082",
+      "rec_083",
+      "rec_084",
+      "rec_085",
+      "rec_086",
+      "rec_087",
+      "rec_088",
+      "rec_089",
+      "rec_090",
+      "rec_091",
+      "rec_092",
+      "rec_093",
+      "rec_095",
+      "rec_096",
+      "rec_097",
+      "rec_098",
+      "rec_099",
+      "rec_100",
+      "rec_184",
+      "rec_185",
+      "rec_186",
+      "rec_187",
+      "rec_188"
+    ]
+  },
+  {
+    "id": "q_043",
+    "query": "fiery Mexican corn tortilla dinner in 20 minutes",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_208",
+      "rec_209",
+      "rec_210",
+      "rec_212"
+    ]
+  },
+  {
+    "id": "q_044",
+    "query": "fast plant based Japanese broth bowl",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_124",
+      "rec_196",
+      "rec_199",
+      "rec_201"
+    ]
+  },
+  {
+    "id": "q_045",
+    "query": "dairy free sweet cocoa treat",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_009",
+      "rec_031"
+    ]
+  },
+  {
+    "id": "q_046",
+    "query": "crunchy romaine greens with creamy garlicky tahini",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_156",
+      "rec_158"
+    ]
+  },
+  {
+    "id": "q_047",
+    "query": "melted dark cocoa almond dessert without dairy",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_031"
+    ]
+  },
+  {
+    "id": "q_048",
+    "query": "crispy corn shells with smoky poultry",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_138",
+      "rec_153",
+      "rec_210"
+    ]
+  },
+  {
+    "id": "q_049",
+    "query": "flatbread with fresh mozzarella and sweet basil",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_112",
+      "rec_113",
+      "rec_190",
+      "rec_194"
+    ]
+  },
+  {
+    "id": "q_051",
+    "query": "no meat legume burger in under 25 minutes",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_167",
+      "rec_170"
+    ]
+  },
+  {
+    "id": "q_052",
+    "query": "japanese raw fish rice bowl quick meal",
+    "dish_hint": null,
+    "relevant_ids": [
+      "rec_203",
+      "rec_205"
+    ]
+  }
+]

@@ -1,0 +1,6079 @@
+[
+  {
+    "title": "Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "2 Tbsp. grated Parmesan cheese",
+      "2 Tbsp. water",
+      "2 Tbsp. red wine vinegar",
+      "1 tsp. Worcestershire sauce",
+      "1 Tbsp. olive oil",
+      "1 clove garlic",
+      "1/4 tsp. dry mustard",
+      "1 large bunch romaine lettuce, cleaned and torn into pieces",
+      "1/3 c. croutons (optional)"
+    ],
+    "steps": [
+      "Combine all ingredients together except lettuce in food processor and blend until smooth.",
+      "Pour over lettuce, tossing well.",
+      "Top with croutons, if desired.",
+      "Yields 4 servings."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Caesar Salad with grated Parmesan cheese, water, red wine vinegar, Worcestershire sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_001"
+  },
+  {
+    "title": "Quick And Easy Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "1 head Romaine or green leaf lettuce",
+      "1 cucumber, sliced",
+      "1 box Caesar croutons",
+      "1 pkg. fresh grated Parmesan cheese",
+      "1 bottle Kraft Caesar salad dressing",
+      "1 purple or red onion, sliced (optional)",
+      "1 carton cherry tomatoes",
+      "salt and pepper to taste"
+    ],
+    "steps": [
+      "In a large salad bowl place lettuce (torn into bite-size pieces), cucumber, 1/2 box of croutons, 1/2 of cheese, salt and pepper.",
+      "Do not add dressing until you are ready to serve salad. Shake dressing well and pour approximately 1/2 to 3/4 of dressing on salad.",
+      "Add salt and pepper to taste.",
+      "Toss salad well.",
+      "Garnish individual servings with tomatoes and onion.",
+      "Sprinkle cheese on top, if desired."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Quick And Easy Caesar Salad with head Romaine or green leaf lettuce, cucumber, sliced, box Caesar croutons, fresh grated Parmesan cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_002"
+  },
+  {
+    "title": "Caesar Salad (Serves 6)",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "6 slices white bread",
+      "1/2 c. softened butter",
+      "2 eggs",
+      "1/3 c. olive oil",
+      "2 to 3 Tbsp. lemon juice",
+      "1/2 c. Parmesan cheese",
+      "1 Tbsp. prepared mustard",
+      "1 1/2 cloves garlic",
+      "pepper",
+      "3 qt. torn, crisp and dry romaine leaves"
+    ],
+    "steps": [
+      "Remove crusts from bread and spread butter lightly on each side.",
+      "Place in large skillet over moderate heat. Add a little of the remaining butter.",
+      "Brown bread on each side, drain on paper towels and cube.",
+      "Beat eggs slightly.",
+      "Add olive oil, lemon juice, Parmesan cheese, mustard, pepper and garlic. Beat until blended.",
+      "Toss romaine, dressing and croutons."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Caesar Salad (Serves 6) with white bread, softened butter, eggs, olive oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_003"
+  },
+  {
+    "title": "Caesar Salad (For Two)",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "1 tsp. Dijon mustard",
+      "2 Tbsp. lemon juice",
+      "2 egg yolks",
+      "3 Tbsp. virgin olive oil",
+      "1 tsp. Worcestershire sauce",
+      "3 Tbsp. Parmesan cheese",
+      "4 anchovies",
+      "1/2 clove garlic",
+      "romaine lettuce"
+    ],
+    "steps": [
+      "Mix anchovy and garlic to a paste.",
+      "Add mustard and lemon juice; mix.",
+      "Add egg yolks, olive oil and Worcestershire sauce; mix well.",
+      "Gradually add cheese.",
+      "Add lettuce; toss well.",
+      "Add pepper, croutons, extra cheese, bacon bits and mushrooms, if desired."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Caesar Salad (For Two) with Dijon mustard, lemon juice, egg yolks, virgin olive oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_004"
+  },
+  {
+    "title": "Caesar Salad With Sourdough Croutons",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "1/2 c. fresh lemon juice",
+      "2 Tbsp. Worcestershire sauce",
+      "4 garlic cloves, coarsely chopped",
+      "1/2 tsp. hot pepper sauce (such as Tabasco sauce)",
+      "1 c. olive oil",
+      "2 large heads romaine lettuce, torn into bite size pieces",
+      "1 red onion, thinly sliced",
+      "Sourdough Croutons",
+      "1 c. freshly grated Parmesan cheese (about 3 oz.)"
+    ],
+    "steps": [
+      "Blend first 4 ingredients in processor or blender. With machine running, gradually add oil in thin steady stream.",
+      "Season to taste with salt and pepper.",
+      "Prepare 1 day ahead.",
+      "Cover and chill. Bring to room temperature before serving.",
+      "Combine lettuce, onion and croutons in a large bowl. Toss with enough dressing to season to taste.",
+      "Sprinkle with cheese and serve.",
+      "Makes 6 servings."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Caesar Salad With Sourdough Croutons with fresh lemon juice, Worcestershire sauce, garlic cloves, coarsely chopped, hot pepper sauce (such as Tabasco sauce).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_005"
+  },
+  {
+    "title": "Light Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "1/4 cup reduced fat mayonnaise",
+      "2 tablespoons grated Parmesan cheese",
+      "1 teaspoon sugar",
+      "1 teaspoon Dijon-style mustard",
+      "1 teaspoon anchovy paste",
+      "1/2 teaspoon Worcestershire sauce",
+      "1 clove garlic, minced",
+      "2 tablespoons lemon juice",
+      "1 large head romaine lettuce, torn into bite-size pieces",
+      "1/2 cup croutons"
+    ],
+    "steps": [
+      "In small bowl, stir together mayonnaise, parmesan, sugar, mustard, anchovy paste, Worcestershire and garlic.",
+      "Gradually stir in lemon juice.",
+      "Cover and chill several hours or overnight.",
+      "In medium salad bowl, toss lettuce with dressing.",
+      "Sprinkle croutons over top.",
+      "Serve immediately.",
+      "Makes 6 servings."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [],
+    "description": "Light Caesar Salad with reduced fat mayonnaise, tablespoons grated Parmesan cheese, teaspoon sugar, teaspoon Dijon-style mustard.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_006"
+  },
+  {
+    "title": "Chicken Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "1 head romaine or leaf lettuce",
+      "croutons (Italian)",
+      "1 bottle Caesar salad dressing",
+      "onion powder",
+      "garlic powder",
+      "salt",
+      "2 hard-boiled eggs, diced",
+      "Parmesan cheese"
+    ],
+    "steps": [
+      "Sprinkle onion powder, garlic powder and salt on cubed chicken breasts to your liking.",
+      "Fry until chicken cubes are browned."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Chicken Caesar Salad with boneless chicken breasts, head romaine or leaf lettuce, croutons (Italian), bottle Caesar salad dressing.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_007"
+  },
+  {
+    "title": "Caesar Salad (Serves 4 People)",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine lettuce",
+      "2 Tbsp. anchovies",
+      "1 tsp. garlic",
+      "1 1/2 Tbsp. Dijon mustard",
+      "1 egg",
+      "1 tsp. Worcestershire sauce",
+      "1 1/2 c. olive oil",
+      "fresh cracked pepper",
+      "2 Tbsp. dried Parmesan cheese"
+    ],
+    "steps": [
+      "Using a large bowl, take a large spoon and mash anchovies and garlic into a paste.",
+      "Add Dijon mustard; mix good.",
+      "Add egg yolk and Worcestershire sauce.",
+      "Stir the olive oil in slowly until it thickens.",
+      "Toss enough romaine lettuce to serve 4 people.",
+      "Add fresh cracked pepper, then top with Parmesan cheese."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Caesar Salad (Serves 4 People) with romaine lettuce, anchovies, garlic, Dijon mustard.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_008"
+  },
+  {
+    "title": "Easy German Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1/2 pkg. chocolate fudge cake mix without pudding or 1 Jiffy mix",
+      "1/2 pkg. white cake mix without pudding or 1 Jiffy mix",
+      "1/4 c. Wesson oil"
+    ],
+    "steps": [
+      "Mix according to directions and add oil.",
+      "Bake in 9 x 13-inch pan."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Easy German Chocolate Cake with chocolate fudge cake mix without pudding or 1 Jiffy mix, white cake mix without pudding or 1 Jiffy mix, Wesson oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_009"
+  },
+  {
+    "title": "Triple Fudge Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 (3 oz.) pkg. chocolate pudding and pie filling",
+      "1 chocolate or white cake mix",
+      "1 (6 oz.) pkg. chocolate chips",
+      "chopped nuts",
+      "whipped cream"
+    ],
+    "steps": [
+      "Cook pudding according to directions.",
+      "Blend cake mix into hot pudding.",
+      "Pour into greased 9 x 13-inch pan.",
+      "Sprinkle chocolate chips and nuts over top.",
+      "Bake 30 to 35 minutes at 350\u00b0.",
+      "Serve with whipped cream."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Triple Fudge Cake with chocolate pudding and pie filling, chocolate or white cake mix, chocolate chips, chopped nuts.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_010"
+  },
+  {
+    "title": "Betsy's Chocolate Fudge Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "3 sq. unsweetened chocolate",
+      "2 1/4 c. sifted flour",
+      "2 tsp. baking powder",
+      "1/2 tsp. salt",
+      "1/2 c. butter",
+      "2 1/4 c. packed light brown sugar",
+      "3 eggs",
+      "1 1/2 tsp. vanilla",
+      "1 c. sour cream",
+      "1 c. boiling water"
+    ],
+    "steps": [
+      "Melt chocolate in small bowl over hot water; cool.",
+      "Grease and flour 2 to 3 (9-inch) cake pans.",
+      "Sift flour, baking soda and salt onto wax paper.",
+      "Beat butter until soft in large bowl.",
+      "Add brown sugar and eggs; beat with mixer at high speed until light and fluffy (5 minutes).",
+      "Beat in vanilla and chocolate.",
+      "Stir in dry ingredients, alternating with sour cream.",
+      "Beat well with wooden spoon after each addition."
+    ],
+    "prep_time_min": 65,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Betsy's Chocolate Fudge Cake with sq. unsweetened chocolate, sifted flour, baking powder, salt.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_011"
+  },
+  {
+    "title": "Favorite Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 3/4 c. flour",
+      "2 eggs",
+      "1 tsp. baking powder",
+      "1 tsp. red food coloring",
+      "1/2 tsp. salt",
+      "1/2 tsp. soda",
+      "1 1/2 c. sugar",
+      "7 Tbsp. cocoa",
+      "1/2 c. shortening",
+      "1 c. buttermilk"
+    ],
+    "steps": [
+      "Sift all dry ingredients in a large mixing bowl.",
+      "Stir.",
+      "Add the rest and beat with electric mixer for 2 minutes.",
+      "Pour into greased and floured pans (2).",
+      "I use small tube pan.",
+      "Bake at 350\u00b0 for 30 minutes.",
+      "Tube pan takes 40 minutes."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Favorite Chocolate Cake with flour, eggs, baking powder, red food coloring.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_012"
+  },
+  {
+    "title": "Mother J's Chocolate Cake (Delicious!)",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. sugar",
+      "1 c. butter",
+      "4 eggs",
+      "1 c. buttermilk",
+      "3 c. self-rising flour",
+      "1 Tbsp. vanilla"
+    ],
+    "steps": [
+      "Cream butter and sugar.",
+      "Add eggs, one at a time, and mix well.",
+      "Add buttermilk.",
+      "Add flour, 1 cup at a time, mixing well. Add vanilla.",
+      "For layer cake bake at 350\u00b0 for 35 to 40 minutes. For sheet cake pan bake at 325\u00b0 for 1 hour and 20 minutes. Makes three layers or sheet cake.",
+      "Real nice for birthdays."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Mother J's Chocolate Cake (Delicious!) with sugar, butter, eggs, buttermilk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_013"
+  },
+  {
+    "title": "Ultimate Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "3 oz. unsweetened chocolate",
+      "1 c. unsalted butter",
+      "2 1/3 c. firmly packed light brown sugar",
+      "2 1/3 c. sifted cake flour",
+      "2/3 c. buttermilk",
+      "1 c. boiling water",
+      "1 tsp. vanilla",
+      "3 large eggs",
+      "2 tsp. baking soda",
+      "1 tsp. salt"
+    ],
+    "steps": [
+      "Heat oven to 350\u00b0.",
+      "Brush cake pans with melted butter and dust with sifted flour, shaking out excess.",
+      "Chill until needed.",
+      "Melt chocolate in the top of a double boiler.",
+      "Allow to cool.",
+      "Cream together butter and sugar.",
+      "Add eggs, one at a time, beating well. Mix in melted, cooled chocolate.",
+      "Sift together flour, baking soda and salt and add gradually to chocolate mixture, alternating with buttermilk."
+    ],
+    "prep_time_min": 75,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Ultimate Chocolate Cake with unsweetened chocolate, unsalted butter, firmly packed light brown sugar, sifted cake flour.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_014"
+  },
+  {
+    "title": "Easy Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. flour",
+      "2 c. sugar",
+      "4 Tbsp. cocoa",
+      "1 stick oleo",
+      "1/2 c. shortening",
+      "1/2 c. buttermilk",
+      "1 tsp. soda",
+      "2 beaten eggs",
+      "1 pinch salt",
+      "1 c. water"
+    ],
+    "steps": [
+      "Mix sugar, flour and cocoa.",
+      "Melt shortening and oleo.",
+      "Add water and boil.",
+      "Pour over dry ingredients.",
+      "Add buttermilk, soda, eggs, vanilla and salt.",
+      "Pour into greased 9 x 13-inch pan.",
+      "Bake 35 minutes at 400\u00b0."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Easy Chocolate Cake with flour, sugar, cocoa, stick oleo.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_015"
+  },
+  {
+    "title": "Decadent Fudge Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 c. butter or margarine, softened",
+      "1 1/2 c. sugar",
+      "4 eggs",
+      "1/2 tsp. baking soda",
+      "1 c. buttermilk",
+      "2 1/2 c. all-purpose flour",
+      "1 1/2 c. semi-sweet chocolate mini morsels, divided",
+      "2 (4 oz.) bars sweet baking chocolate, melted and cooled",
+      "1/3 c. chocolate syrup",
+      "2 tsp. vanilla extract",
+      "4 oz. white chocolate, chopped",
+      "2 Tbsp. plus 2 tsp. shortening, divided"
+    ],
+    "steps": [
+      "Cream butter in a large mixing bowl; gradually add sugar, beating well at medium speed of an electric mixer.",
+      "Add eggs one at a time, beating after each addition."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Decadent Fudge Cake with butter or margarine, softened, sugar, eggs, baking soda.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_016"
+  },
+  {
+    "title": "Grandma's Moist Chocolate Cake And Frosting",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. flour",
+      "1 tsp. salt",
+      "1 tsp. baking powder",
+      "2 tsp. baking soda",
+      "3/4 c. cocoa",
+      "2 c. sugar",
+      "1 c. milk",
+      "1 c. vegetable oil",
+      "3 eggs, beaten",
+      "1 tsp. vanilla",
+      "1 c. hot strong coffee"
+    ],
+    "steps": [
+      "Sift dry ingredients together.",
+      "Add milk, oil, eggs and vanilla.",
+      "Beat well.",
+      "Add coffee.",
+      "Blend completely.",
+      "Batter will be thin.",
+      "Bake at 325\u00b0 in two 9-inch greased and floured pans for 25 to 30 minutes."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Grandma's Moist Chocolate Cake And Frosting with flour, salt, baking powder, baking soda.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_017"
+  },
+  {
+    "title": "30 Minute Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 sticks margarine",
+      "3 Tbsp. cocoa",
+      "1 c. water",
+      "2 c. flour",
+      "2 c. sugar",
+      "2 eggs",
+      "1/2 c. buttermilk",
+      "1 tsp. soda",
+      "1 tsp. vanilla"
+    ],
+    "steps": [
+      "Preheat oven to 400\u00b0.",
+      "Grease 9 x 12-inch pan.",
+      "Bring to boil in saucepan the margarine, cocoa and water.",
+      "Remove from heat and pour over flour and sugar.",
+      "Mix well.",
+      "Add rest of ingredients and mix well.",
+      "Bake at 400\u00b0 for 20 minutes until set.",
+      "Pour topping on while still hot."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "30 Minute Chocolate Cake with sticks margarine, cocoa, water, flour.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_018"
+  },
+  {
+    "title": "Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. sugar",
+      "3 eggs",
+      "1/2 c. shortening",
+      "1/2 c. cold coffee (add 1 tsp. soda to the coffee)",
+      "1/2 c. cocoa",
+      "2 c. flour",
+      "1 tsp. baking powder",
+      "1 tsp. vanilla",
+      "1 c. boiling water"
+    ],
+    "steps": [
+      "Cream sugar and shortening.",
+      "Add eggs, one at a time, and blend.",
+      "Add coffee.",
+      "Then add dry ingredients.",
+      "Lastly add hot water.",
+      "Bake at 350\u00b0 for 30 to 40 minutes."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Chocolate Cake with sugar, eggs, shortening, cold coffee (add 1 tsp. soda to the coffee).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_019"
+  },
+  {
+    "title": "My Favorite Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 lb. cream cheese",
+      "1/2 c. sour cream",
+      "1 3/4 c. sugar",
+      "4 eggs",
+      "1 tsp. vanilla",
+      "graham cracker crust"
+    ],
+    "steps": [
+      "Blend first 5 ingredients well.",
+      "Can use graham cracker crust in 9 x 12-inch pan or cheese cake pan.",
+      "Pour into prepared crust. Bake 1 1/2 hours at 325\u00b0.",
+      "Turn off oven and let sit 20 minutes. Cool completely and refrigerate.",
+      "Top with fresh fruit or canned pie filling before serving."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "My Favorite Chocolate Cake with cream cheese, sour cream, sugar, eggs.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_020"
+  },
+  {
+    "title": "22 Minute Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. flour",
+      "2 c. sugar",
+      "3 1/2 Tbsp. cocoa",
+      "2 sticks oleo or butter",
+      "1 c. water",
+      "2 eggs",
+      "1/2 c. buttermilk",
+      "1 tsp. baking soda",
+      "1 tsp. vanilla",
+      "1 stick oleo",
+      "1/3 c. milk",
+      "3 1/2 Tbsp. cocoa"
+    ],
+    "steps": [
+      "When cake has baked 18 minutes, combine in saucepan used before, oleo, milk and cocoa.",
+      "Bring to a boil.",
+      "Remove from heat and add powdered sugar, chopped nuts and vanilla.",
+      "Pour over hot cake.",
+      "Allow cake to cool before serving."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "22 Minute Chocolate Cake with flour, sugar, cocoa, sticks oleo or butter.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_021"
+  },
+  {
+    "title": "White Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1/4 lb. white chocolate",
+      "1/2 c. boiling water",
+      "1 c. butter",
+      "2 c. sugar",
+      "4 egg yolks",
+      "1 tsp. vanilla",
+      "2 1/2 c. cake flour",
+      "1 tsp. soda",
+      "1 c. buttermilk",
+      "4 egg whites",
+      "1 c. pecans",
+      "1 c. coconut"
+    ],
+    "steps": [
+      "Melt chocolate in the boiling water. Set aside to cool.",
+      "Cream the butter and sugar until fluffy. Mix in egg yolks one at a time, beating well after each addition. Add melted chocolate and vanilla. Sift together flour and soda. Add to creamed mixture with buttermilk. Do not overmix at this point. Beat egg whites until stiff and fold in batter. Stir in pecans and coconut.",
+      "Pour in 3 greased and floured pans.",
+      "Bake at 350\u00b0 for 20 minutes."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "White Chocolate Cake with white chocolate, boiling water, butter, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_022"
+  },
+  {
+    "title": "Sunshine Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "4 1/2 c. flour",
+      "3 1/2 c. sugar",
+      "1 c. cocoa",
+      "3/4 tsp. baking powder",
+      "3 1/2 tsp. baking soda",
+      "2 tsp. salt",
+      "1 1/3 c. lard",
+      "2 1/2 c. water",
+      "6 eggs",
+      "1 tsp. vanilla"
+    ],
+    "steps": [
+      "Mix all together.",
+      "Makes a large cake.",
+      "Bake at 350\u00b0 until done."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Sunshine Chocolate Cake with flour, sugar, cocoa, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_023"
+  },
+  {
+    "title": "Special Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 box German chocolate cake mix",
+      "1 can condensed milk",
+      "1 can cream of coconut",
+      "Cool Whip",
+      "3 Butterfinger candy bars"
+    ],
+    "steps": [
+      "Mix German chocolate cake mix as directed on box and bake in 9-inch x 13-inch pan.",
+      "Cool completely.",
+      "Punch holes in top of cake.",
+      "Pour 1 can condensed milk over cake.",
+      "Pour 1 can cream of coconut over cake.",
+      "Ice with small Cool Whip.",
+      "Crush Butterfingers and sprinkle on top.",
+      "Refrigerate."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Special Chocolate Cake with box German chocolate cake mix, condensed milk, cream of coconut, Cool Whip.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_024"
+  },
+  {
+    "title": "Molten Chocolate Lava Cake (Petite Gateau)",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1/2 cup Butter, unsalted",
+      "4 ounce(s) Bittersweet chocolate",
+      "2 Egg(s)",
+      "2 Egg yolk(s)",
+      "1/4 cup Sugar",
+      "2 tablespoon(s) Flour, all-purpose"
+    ],
+    "steps": [
+      "Butter and flour 4 custard cups.",
+      "Preheat oven to 450F.",
+      "Melt butter and chocolate.",
+      "Do NOT let it boil.",
+      "Remove from heat and set aside.",
+      "Beat together the 2 eggs plus 2 yolks and the sugar, until it's light and thick.",
+      "Pour the now tepid chocolate mixture into the egg mixture, and beat to mix.",
+      "Quickly beat in the flour until just mixed in."
+    ],
+    "prep_time_min": 75,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Molten Chocolate Lava Cake (Petite Gateau) with Butter, unsalted, ounce(s) Bittersweet chocolate, Egg(s), Egg yolk(s).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_025"
+  },
+  {
+    "title": "Wet Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. flour",
+      "2 c. sugar",
+      "2 sticks butter",
+      "4 Tbsp. cocoa",
+      "1 c. warm water",
+      "1/2 c. buttermilk",
+      "1 tsp. baking soda",
+      "2 eggs",
+      "1 tsp. vanilla"
+    ],
+    "steps": [
+      "Sift together flour and sugar.",
+      "In saucepan add butter, cocoa and warm water.",
+      "Bring to boil and pour over dry ingredients.",
+      "Mix well, then add buttermilk, baking soda, eggs and vanilla.",
+      "Mix well.",
+      "Pour in large oblong pan.",
+      "Bake at 350\u00b0 for 40 minutes."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Wet Chocolate Cake with flour, sugar, sticks butter, cocoa.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_026"
+  },
+  {
+    "title": "Kahlua Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "4 large eggs",
+      "1 c. sour cream",
+      "1 c. Kahlua",
+      "3/4 c. vegetable oil",
+      "1 (6 oz.) pkg. chocolate chips",
+      "1 pkg. devil's food cake mix"
+    ],
+    "steps": [
+      "Combine cake mix, eggs, sour cream, Kahlua and oil.",
+      "Beat 3 to 5 minutes on medium.",
+      "Stir in chocolate chips.",
+      "Pour batter into greased and floured tube pan.",
+      "Bake at 350\u00b0 for 55 to 60 minutes or until cake tester comes out clean.",
+      "Cool for 30 minutes on rack while still in pan."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Kahlua Chocolate Cake with large eggs, sour cream, Kahlua, vegetable oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_027"
+  },
+  {
+    "title": "Chocolate Chocolate Chocolate Cake (With Chocolate Icing)",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 box devil's food cake mix",
+      "1 c. chocolate chips (add last)",
+      "2 eggs",
+      "1 1/4 c. water",
+      "1 box instant or regular chocolate pudding",
+      "1/4 c. oil"
+    ],
+    "steps": [
+      "In large bowl, combine ingredients (preferably with electric mixer).",
+      "Pour into greased 13 x 9-inch metal or glass container. Bake at 350\u00b0 for 30 to 35 minutes.",
+      "Test for doneness with toothpick."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Chocolate Chocolate Chocolate Cake (With Chocolate Icing) with box devil's food cake mix, chocolate chips (add last), eggs, water.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_028"
+  },
+  {
+    "title": "Fudge Cakes",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "5 sq. unsweetened chocolate",
+      "1/2 lb. butter",
+      "4 eggs",
+      "2 c. sugar",
+      "1/2 c. flour",
+      "1 tsp. vanilla"
+    ],
+    "steps": [
+      "Melt butter and chocolate together. Add to eggs, sugar and flour. Mix well. Add vanilla. Pour into shallow, greased pan (11 x 7). Bake at 375\u00b0 for 30 minutes. Sprinkle with 10x sugar."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Fudge Cakes with sq. unsweetened chocolate, butter, eggs, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_029"
+  },
+  {
+    "title": "Mayonnaise Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "2 c. flour",
+      "1 c. sugar",
+      "1 1/2 tsp. soda",
+      "1 1/2 tsp. baking powder",
+      "4 Tbsp. cocoa",
+      "1 c. water",
+      "1 tsp. vanilla",
+      "1 c. mayonnaise"
+    ],
+    "steps": [
+      "Mix flour, soda, sugar, baking powder and cocoa in bowl.",
+      "Stir thoroughly, then add water, mayonnaise and vanilla.",
+      "Stir enough to mix.",
+      "Bake at 350\u00b0 for 35 minutes in two 9-inch layer pans or 1 hour in tube pan.",
+      "Pans should be greased and floured.",
+      "Cool cake."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Mayonnaise Chocolate Cake with flour, sugar, soda, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_030"
+  },
+  {
+    "title": "Maraschino Cherry Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "1 (5 lb.) box devil's food cake mix",
+      "4 tsp. almond extract",
+      "1 1/2 c. maraschino cherries, finely chopped"
+    ],
+    "steps": [
+      "Prepare cake mix according to package directions, adding almond extract with the water; stir cherries into batter.",
+      "Bake according to package directions; cool.",
+      "Frost with Cherry Fudge Frosting."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Maraschino Cherry Chocolate Cake with box devil's food cake mix, almond extract, maraschino cherries, finely chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_031"
+  },
+  {
+    "title": "Cheeseburger Potato Soup",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "6 baking potatoes",
+      "1 lb. of extra lean ground beef",
+      "2/3 c. butter or margarine",
+      "6 c. milk",
+      "3/4 tsp. salt",
+      "1/2 tsp. pepper",
+      "1 1/2 c (6 oz.) shredded Cheddar cheese, divided",
+      "12 sliced bacon, cooked, crumbled and divided",
+      "4 green onion, chopped and divided",
+      "1 (8 oz.) carton sour cream (optional)"
+    ],
+    "steps": [
+      "Wash potatoes; prick several times with a fork.",
+      "Microwave them with a wet paper towel covering the potatoes on high for 6-8 minutes.",
+      "The potatoes should be soft, ready to eat.",
+      "Let them cool enough to handle.",
+      "Cut in half lengthwise; scoop out pulp and reserve.",
+      "Discard shells.",
+      "Brown ground beef until done.",
+      "Drain any grease from the meat."
+    ],
+    "prep_time_min": 75,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Cheeseburger Potato Soup with baking potatoes, of extra lean ground beef, butter or margarine, milk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_032"
+  },
+  {
+    "title": "Spanish Hamburgers",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1/2 c. celery",
+      "2 chopped onions",
+      "2 Tbsp. butter",
+      "1 lb. ground beef",
+      "2 Tbsp. vinegar",
+      "2 Tbsp. lemon juice",
+      "2 Tbsp. brown sugar",
+      "1 1/2 Tbsp. mustard",
+      "1 tsp. salt",
+      "1 1/2 tsp. pepper",
+      "1 c. catsup",
+      "1 c. water"
+    ],
+    "steps": [
+      "Brown celery, onions and ground beef in butter.",
+      "Add vinegar, lemon juice, brown sugar, mustard, salt, pepper catsup and water. Simmer for 30 minutes."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Spanish Hamburgers with celery, chopped onions, butter, ground beef.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_033"
+  },
+  {
+    "title": "Chinese Hamburger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. hamburger",
+      "2 Tbsp. oil",
+      "1 onion, chopped",
+      "1 celery rib, chopped",
+      "1 c. cooked rice",
+      "1 can cream of mushroom soup",
+      "1 can cream of chicken soup",
+      "1 1/2 c. warm water",
+      "1/4 c. soy sauce",
+      "1/4 tsp. pepper",
+      "1 can chow mein noodles"
+    ],
+    "steps": [
+      "Brown hamburger. Add onion and celery until transparent; drain. Add soups, water, rice, soy sauce and pepper. Transfer to a casserole dish. Bake at 350\u00b0 for 20 minutes. Top with chow mein noodles and cook for 10 minutes more."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Chinese Hamburger with hamburger, oil, onion, chopped, celery rib, chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_034"
+  },
+  {
+    "title": "Cheeseburger Crescent Bake (1 Hour)",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 (8 oz.) pkg. crescent rolls",
+      "1/8 c. chopped onion",
+      "1 tsp. Worcestershire sauce",
+      "1 tsp. lemon juice",
+      "1/2 tsp. paprika",
+      "1/4 tsp. garlic powder",
+      "1/2 tsp. salt",
+      "1/8 tsp. pepper",
+      "2 c. shredded cheese",
+      "1 beaten egg"
+    ],
+    "steps": [
+      "Press crescent rolls in 13 x 9-inch pan, forming crust 1/2-inch up edge.",
+      "Brown hamburger in skillet with onion.",
+      "Drain grease.",
+      "Remove from heat and stir in remaining ingredients. Spread over crescent rolls.",
+      "Bake 20 to 25 minutes at 350\u00b0.",
+      "Kids love this!"
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Cheeseburger Crescent Bake (1 Hour) with ground beef, crescent rolls, chopped onion, Worcestershire sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_035"
+  },
+  {
+    "title": "Cheeseburger Loaf",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1/2 c. evaporated milk",
+      "1 egg",
+      "1 c. cracker crumbs",
+      "1 1/2 lb. ground chuck",
+      "4 Tbsp. finely chopped onion",
+      "1 1/2 tsp. salt or to taste",
+      "1 tsp. dry mustard",
+      "1 Tbsp. ketchup",
+      "1 c. grated American cheese"
+    ],
+    "steps": [
+      "Preheat oven to 350\u00b0.",
+      "Combine all ingredients except cheese in bowl and mix thoroughly.",
+      "Lightly grease a loaf pan.",
+      "Put 1/3 of meat mixture in the bottom of pan and spread evenly.",
+      "Put 1/2 cup cheese on top (keep cheese away from the edge of the pan to prevent burning or sticking).",
+      "Repeat layers (1/3 meat, 1/2 cup cheese, 1/3 meat).",
+      "Bake 1 hour.",
+      "Let stand 10 to 15 minutes before removing to a platter to slice."
+    ],
+    "prep_time_min": 60,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Cheeseburger Loaf with evaporated milk, egg, cracker crumbs, ground chuck.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_036"
+  },
+  {
+    "title": "Cheeseburger Pie",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 Tbsp. onions",
+      "1 tsp. salt",
+      "1/4 tsp. pepper",
+      "3/4 tsp. Italian seasoning",
+      "1 (6 oz.) can tomato paste",
+      "1 pizza crust",
+      "8 oz. shredded Mozzarella cheese"
+    ],
+    "steps": [
+      "Brown meat and seasoning in skillet.",
+      "Drain off fat.",
+      "Add tomato paste; blend.",
+      "Turn mixture out on crust.",
+      "Top with cheese. Bake at 375\u00b0 for 10 to 15 minutes."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Cheeseburger Pie with ground beef, onions, salt, pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_037"
+  },
+  {
+    "title": "Spanish Hamburger #1",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "6 lb. hamburger",
+      "salt and pepper",
+      "1 medium white onion",
+      "1/2 green pepper",
+      "1 stalk celery",
+      "1 (20 oz.) can tomato soup"
+    ],
+    "steps": [
+      "Fry hamburger half done.",
+      "Cut onion, green pepper and celery in fine pieces and add.",
+      "Let simmer 1/2 hour.",
+      "Add salt and pepper, then add tomato soup. Simmer 2 hours.",
+      "Keep steam in for best results."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Spanish Hamburger #1 with hamburger, salt and pepper, medium white onion, green pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_038"
+  },
+  {
+    "title": "Hamburger Party Balls",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 1/2 lb. hamburger",
+      "1/2 c. chopped dill pickles",
+      "1/4 c. Carnation cream",
+      "2 Tbsp. Shake 'n Bake for chicken",
+      "1 onion, chopped (optional)"
+    ],
+    "steps": [
+      "Mix well.",
+      "Shape into balls.",
+      "Roll in remainder of Shake 'n Bake and bake in 350\u00b0 oven for 20 to 30 minutes or until done. Toothpicks can be put in balls when done."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Hamburger Party Balls with hamburger, chopped dill pickles, Carnation cream, Shake 'n Bake for chicken.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_039"
+  },
+  {
+    "title": "Hamburger And Macaroni Casserole",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. hamburger",
+      "1 small onion, diced",
+      "1 c. macaroni",
+      "2 cans tomato soup"
+    ],
+    "steps": [
+      "Brown hamburger and onion.",
+      "Cook macaroni in 2 quarts salted water, then drain.",
+      "Add 2 cans tomato soup to the hamburger and macaroni.",
+      "Bake at 350\u00b0 for 30 minutes.",
+      "Can be covered with cheese, then heated until cheese melts.",
+      "Can add chopped celery or peppers to hamburger as well."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hamburger And Macaroni Casserole with hamburger, small onion, diced, macaroni, s tomato soup.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_040"
+  },
+  {
+    "title": "Hamburger Potato Hot Dish",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "6 potatoes, peeled and sliced",
+      "1 onion, sliced",
+      "1 1/2 lb. raw hamburger",
+      "1 large can beef vegetable soup",
+      "1/2 can water"
+    ],
+    "steps": [
+      "Place potatoes into large pan.",
+      "Layer onions over top.",
+      "Pour soup and water mixture on top.",
+      "Bake 1 to 1 1/2 hours at 350\u00b0."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Hamburger Potato Hot Dish with potatoes, peeled and sliced, onion, sliced, raw hamburger, large can beef vegetable soup.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_041"
+  },
+  {
+    "title": "Easters Hamburgers",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 can tomato sauce",
+      "1/2 tsp. dry mustard",
+      "2 Tbsp. brown sugar",
+      "salt and pepper",
+      "chili powder"
+    ],
+    "steps": [
+      "Brown hamburger patties.",
+      "Slice raw onions on top.",
+      "Pour mixture over hamburgers.",
+      "Bake 1 hour at 350\u00b0."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Easters Hamburgers with tomato sauce, dry mustard, brown sugar, salt and pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_042"
+  },
+  {
+    "title": "Hamburger Casserole",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "2 lb. hamburger",
+      "1 c. chopped onion",
+      "1/2 large green pepper, chopped",
+      "1/2 tsp. garlic salt to taste",
+      "2 cans tomato sauce",
+      "2 Tbsp. catsup",
+      "small amount sugar",
+      "1 small pkg. egg noodles",
+      "1 (8 oz.) pkg. cream cheese"
+    ],
+    "steps": [
+      "Cook beef, onion and green pepper together.",
+      "Salt to taste with garlic salt.",
+      "Add tomato sauce, catsup and sugar. Cook egg noodles as directed on package and drain.",
+      "Put half of the noodles on bottom of casserole; add half meat mixture. Dice cream cheese on top of meat.",
+      "Add other half of noodles, top with last half of meat mixture.",
+      "Cook in 350\u00b0 oven for 30 minutes."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Hamburger Casserole with hamburger, chopped onion, large green pepper, chopped, garlic salt to taste.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_043"
+  },
+  {
+    "title": "Stuffed Hamburgers",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "hamburg",
+      "dill pickles",
+      "oleo or shortening",
+      "1 (8 oz.) can tomato sauce (with mushrooms)",
+      "salt",
+      "pepper",
+      "onion"
+    ],
+    "steps": [
+      "Prepare hamburg for patties with salt and a little pepper. Make individual patties.",
+      "Place a slice of dill pickle and a thin slice of onion.",
+      "Fold patty over and seal.",
+      "Brown in a little oleo or shortening.",
+      "Pour the tomato sauce over the patties. Simmer 30 to 45 minutes."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Stuffed Hamburgers with hamburg, dill pickles, oleo or shortening, tomato sauce (with mushrooms).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_044"
+  },
+  {
+    "title": "Evening Delight Hamburger Stew",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 (10 oz.) frozen mixed vegetables",
+      "1 lb. lean ground beef",
+      "1/2 c. chopped onion",
+      "1 pkg. beef stew season mix",
+      "2 Tbsp. flour",
+      "1 c. water",
+      "1 bottle white Zinfandel wine",
+      "1 (16 oz.) can small whole potatoes or 4 baked and cut potatoes"
+    ],
+    "steps": [
+      "Place package of vegetables on paper towel.",
+      "Microwave on High for 7 minutes.",
+      "Set aside."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Evening Delight Hamburger Stew with frozen mixed vegetables, lean ground beef, chopped onion, beef stew season mix.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_045"
+  },
+  {
+    "title": "Hot Tomato Hamburger With Rice",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 c. uncooked rice",
+      "1/2 tsp. salt",
+      "1/2 tsp. pepper",
+      "1 (10 oz.) can Ro-Tel tomatoes and green chilies, chopped and drained (reserve liquid and add enough water to make 2 c.)",
+      "1/2 green bell pepper, sliced thin",
+      "1/2 onion, chopped fine",
+      "1 Tbsp. vegetable oil"
+    ],
+    "steps": [
+      "Brown ground beef in hot oil, separating with a fork as it cooks. Add green pepper and onion and continue to fry on medium heat for 5 minutes. Drain excess fat. Gently stir in seasonings, Ro-Tel and Ro-Tel liquid and rice.",
+      "Cover and reduce heat to simmer.",
+      "Cook for about 15 minutes. Do not uncover or stir during the last 15 minutes of cooking."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Hot Tomato Hamburger With Rice with ground beef, uncooked rice, salt, pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_046"
+  },
+  {
+    "title": "Heavenly Hamburger Dish",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "2 Tbsp. shortening",
+      "1 lb. ground beef",
+      "1/2 tsp. onion salt or 1 small onion, chopped",
+      "1/2 tsp. salt",
+      "1/4 tsp. pepper",
+      "1/2 lb. American cheese, sliced",
+      "1/2 c. sliced mushrooms",
+      "2 c. very fine, uncooked noodles",
+      "2 c. canned tomatoes or 15 oz. can tomato sauce",
+      "1/4 c. water",
+      "salt and pepper"
+    ],
+    "steps": [
+      "Preheat electric frypan to 325\u00b0.",
+      "Melt shortening in pan.",
+      "Add meat and brown.",
+      "Add onion, salt and pepper.",
+      "Place cheese slices over entire meat surface.",
+      "Add mushrooms, noodles, tomatoes and water.",
+      "Sprinkle with salt and pepper.",
+      "Reduce heat to low; cover and cook 30 minutes."
+    ],
+    "prep_time_min": 60,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Heavenly Hamburger Dish with shortening, ground beef, onion salt or 1 small onion, chopped, salt.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_047"
+  },
+  {
+    "title": "Hamburger Stroganoff",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. lean ground beef",
+      "1/2 c. onion, chopped",
+      "1/4 c. butter or margarine",
+      "2 Tbsp. flour",
+      "1 tsp. salt",
+      "1 clove garlic, minced",
+      "dash of pepper",
+      "1 (4 oz.) can mushrooms or 1/2 to 1 c. fresh mushrooms, sliced",
+      "1 (10.5 oz.) can condensed cream of chicken soup",
+      "1 c. dairy sour cream",
+      "Poppy Seed Noodles (recipe follows)",
+      "fresh parsley or chives, chopped"
+    ],
+    "steps": [
+      "In a large skillet, melt butter or margarine and brown onion; add ground meat and cook until meat is brown and onion is tender. Stir in flour, salt, garlic, pepper and mushrooms.",
+      "Cook over low heat for 5 minutes, stirring constantly.",
+      "Stir in soup and heat until bubbly, stirring constantly.",
+      "Reduce heat and simmer, uncovered, for 10 minutes.",
+      "Stir in sour cream and heat through. Ladle over Poppy Noodles; garnish with fresh chopped chives."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Hamburger Stroganoff with lean ground beef, onion, chopped, butter or margarine, flour.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_048"
+  },
+  {
+    "title": "Easy Hamburger Stroganoff",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 medium onion, chopped",
+      "2 Tbsp. all-purpose flour",
+      "1/2 tsp. salt",
+      "1/2 tsp. garlic salt",
+      "1/4 tsp. pepper",
+      "1 (8 oz.) can mushroom stems and pieces, drained",
+      "1 (10 3/4 oz.) can cream of chicken soup",
+      "1 (8 oz.) pkg. egg noodles, cooked and drained"
+    ],
+    "steps": [
+      "Cook ground beef and onion until beef is brown.",
+      "Stir in flour, salt, garlic salt, pepper and mushrooms.",
+      "Cook over medium heat for 5 minutes, stirring constantly.",
+      "Stir soup into meat mixture.",
+      "Simmer for 10 minutes, stirring occasionally.",
+      "Serve over noodles.",
+      "Makes 4 servings."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Easy Hamburger Stroganoff with ground beef, medium onion, chopped, all-purpose flour, salt.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_049"
+  },
+  {
+    "title": "Hamburger Hot Dish",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. hamburger",
+      "1 can mushroom soup",
+      "1/2 can water",
+      "1 onion, chopped",
+      "4 carrots, sliced",
+      "2 potatoes, sliced"
+    ],
+    "steps": [
+      "Place hamburger in the bottom of a small roaster or casserole. Place onion, carrots and potatoes over the meat.",
+      "Mix soup and water together and pour over vegetables and hamburger.",
+      "Season with salt and pepper; bake for 1 hour in a 350\u00b0 oven."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hamburger Hot Dish with hamburger, mushroom soup, water, onion, chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_050"
+  },
+  {
+    "title": "Hamburger Round-Up",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. hamburger meat",
+      "4 medium potatoes",
+      "seasoning to taste (can use seasoning salt)",
+      "1 small onion",
+      "1/4 c. water"
+    ],
+    "steps": [
+      "Place meat, seasoning, onion and water in skillet over low fire.",
+      "Slice potatoes thin and place on top.",
+      "Put lid on skillet and cook until potatoes are done.",
+      "Stir into meat and simmer for 5 minutes."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hamburger Round-Up with hamburger meat, medium potatoes, seasoning to taste (can use seasoning salt), small onion.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_051"
+  },
+  {
+    "title": "Barbecued Hamburger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "2 lb. hamburger",
+      "1 onion",
+      "2 Tbsp. mustard",
+      "1 tsp. Worcestershire sauce",
+      "1 tsp. salt",
+      "1/2 c. catsup",
+      "2 tsp. brown sugar"
+    ],
+    "steps": [
+      "Make patties.",
+      "Cover with sauce; simmer about 20 minutes and serve with hamburger buns."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Barbecued Hamburger with hamburger, onion, mustard, Worcestershire sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_052"
+  },
+  {
+    "title": "Alberta's Hamburger Stew",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1/4 c. chopped onion",
+      "1 tsp. salt",
+      "pepper",
+      "1 c. diced potatoes",
+      "1 c. diced carrots",
+      "1 c. diced celery",
+      "1/2 c. water or liquid from string beans"
+    ],
+    "steps": [
+      "Brown ground beef and onion in dry skillet and drain grease. Add remaining ingredients.",
+      "Cover and simmer for 30 to 40 minutes, until vegetables are tender.",
+      "Add a can of cut green beans during last ten minutes.",
+      "Serves 6; freezes well."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Alberta's Hamburger Stew with ground beef, chopped onion, salt, pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_053"
+  },
+  {
+    "title": "Hamburger Cookies",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "2 Tbsp. Pillsbury vanilla frosting supreme",
+      "12 vanilla wafers",
+      "2 Tbsp. green tinted coconut*",
+      "6 chocolate covered round mint cookies or patties",
+      "honey, warmed",
+      "sesame seed"
+    ],
+    "steps": [
+      "*Tip:",
+      "To tint coconut, place coconut and 1 to 2 drops of green food coloring in a jar or resealable plastic container. Seal container and shake until all colored."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Hamburger Cookies with Pillsbury vanilla frosting supreme, vanilla wafers, green tinted coconut*, chocolate covered round mint cookies or patties.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_054"
+  },
+  {
+    "title": "Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. lean hamburger",
+      "1 jar Ragu spaghetti sauce (plain)",
+      "1 small container Ricotta cheese",
+      "1 pkg. lasagne noodles (approximately 8 noodles)",
+      "1 large bag preshredded Mozzarella cheese"
+    ],
+    "steps": [
+      "In a large skillet brown the hamburger.",
+      "Drain the fat.",
+      "Stir in the jar of spaghetti sauce.",
+      "Heat until warm.",
+      "In a 3 to 4-quart saucepan fill to about an inch below the rim with water. Bring to a boil and add noodles.",
+      "Cook until soft.",
+      "In a large baking pan (8 x 10-inch or bigger) cover the bottom with 4 noodles.",
+      "Smother with Mozzarella (and Ricotta if you have it) and start your next layer of noodles."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Lasagne with lean hamburger, Ragu spaghetti sauce (plain), small container Ricotta cheese, lasagne noodles (approximately 8 noodles).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_055"
+  },
+  {
+    "title": "Sour Cream Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 (8 oz.) pkg. egg dumpling noodles",
+      "1 1/2 lb. ground beef",
+      "1 tsp. salt",
+      "dash of pepper",
+      "1/4 tsp. garlic salt",
+      "1/4 tsp. liquid smoke",
+      "1 (8 oz.) can tomato sauce",
+      "1 Tbsp. brown sugar",
+      "1 c. cottage cheese",
+      "1 (12 oz.) carton sour cream",
+      "6 green onions, chopped",
+      "3/4 c. grated Cheddar cheese"
+    ],
+    "steps": [
+      "Cook noodles according to package directions; rinse and drain. Brown hamburger in skillet.",
+      "Add next 6 ingredients; mix well. Cook for 5 minutes; remove from heat.",
+      "Combine noodles with cottage cheese, sour cream and green onions.",
+      "Alternate layers of noodle mixture and meat mixture in 2-quart baking dish, ending with meat mixture.",
+      "Top with Cheddar cheese.",
+      "Bake at 350\u00b0 for 30 minutes, or until heated through."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Sour Cream Lasagna with egg dumpling noodles, ground beef, salt, dash of pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_056"
+  },
+  {
+    "title": "Don Hill's Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 1/2 lb. hamburger meat",
+      "1 onion, chopped",
+      "1 bell pepper, chopped",
+      "garlic to taste",
+      "1 (15 1/4 oz.) jar spaghetti sauce",
+      "salt and pepper to taste",
+      "1 (8 oz.) pkg. hearty wide egg noodles",
+      "3 c. shredded Mozzarella cheese (12 oz.)",
+      "1/2 c. grated Parmesan cheese",
+      "3 c. shredded Cheddar cheese (12 oz.)"
+    ],
+    "steps": [
+      "Cook hamburger, onion and bell pepper until tender and meat is no longer pink.",
+      "Add garlic, spaghetti sauce, salt and pepper; set aside.",
+      "Cook egg noodles in pot until almost tender.",
+      "Layer casserole dish with half of noodles.",
+      "Spread half of sauce mixture over noodles.",
+      "Layer with half of each of the cheeses.",
+      "Repeat the layering: noodles, sauce, Mozzarella cheese and Cheddar cheese with Parmesan cheese on top.",
+      "Bake in oven until brown."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Don Hill's Lasagna with hamburger meat, onion, chopped, bell pepper, chopped, garlic to taste.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_057"
+  },
+  {
+    "title": "Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1/2 lb. Italian sausage",
+      "1 lb. ground round",
+      "1/2 large onion",
+      "1/2 green pepper",
+      "1/4 c. celery",
+      "1/2 tsp. oregano",
+      "1/4 tsp. garlic",
+      "salt and pepper to taste",
+      "1 large can tomatoes",
+      "1 jar Ragu",
+      "1 large can tomato paste",
+      "1 lb. Mozzarella cheese"
+    ],
+    "steps": [
+      "Simmer beef and sausage until brown.",
+      "Drain all fat.",
+      "Simmer onion, pepper and celery until tender.",
+      "Add to beef mixture.",
+      "Add oregano, salt, pepper and garlic, tomatoes, tomato paste and Ragu sauce.",
+      "Simmer while cooking noodles.",
+      "Layer sauce, noodles, Mozzarella, Ricotta and sauce.",
+      "Should make 3 layers."
+    ],
+    "prep_time_min": 60,
+    "diet_tags": [],
+    "description": "Lasagna with Italian sausage, ground round, large onion, green pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_058"
+  },
+  {
+    "title": "Meatless Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 box lasagna noodles",
+      "1 (32 oz.) jar thick spaghetti sauce",
+      "2 c. (15 oz.) Ricotta cheese",
+      "1 (16 oz.) pkg. Mozzarella cheese",
+      "1/2 c. grated Parmesan cheese",
+      "1 egg",
+      "2 Tbsp. chopped parsley",
+      "1 Tbsp. onion powder",
+      "1 Tbsp. garlic powder",
+      "1 tsp. salt",
+      "1/4 tsp. black pepper"
+    ],
+    "steps": [
+      "In a bowl, mix Ricotta cheese, egg, parsley, onion powder, pepper, garlic powder, salt and Parmesan cheese thoroughly. Pour 1 cup sauce in bottom of a 9 x 13-inch pan. Layer 3 pieces of uncooked lasagna noodles over sauce (noodles will later expand to fill empty spaces). Cover with about 1 1/2 cups sauce. Add about 1/3 of the Mozzarella slices. Spread Ricotta cheese mixture over sauce and Mozzarella cheese. Add 3 more noodles, more sauce and then the rest of the Ricotta mixture and the remaining sauce and Mozzarella cheese. Cover with aluminum foil. Bake at 350\u00b0 for 1 hour. Remove foil and bake for about 5 minutes."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Meatless Lasagna with box lasagna noodles, thick spaghetti sauce, (15 oz.) Ricotta cheese, Mozzarella cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_059"
+  },
+  {
+    "title": "Easy Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 can Hunt's spaghetti sauce with Parmesan cheese",
+      "1 regular pkg. lasagne noodles",
+      "1 lb. hamburger (ground)",
+      "1 container Ricotta cheese",
+      "1 egg",
+      "2 c. shredded Mozzarella cheese",
+      "1 c. shredded Cheddar cheese"
+    ],
+    "steps": [
+      "Cook hamburger; drain and add spaghetti sauce.",
+      "Cook lasagne noodles for 10 minutes in boiling water; drain."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Easy Lasagne with Hunt's spaghetti sauce with Parmesan cheese, regular pkg. lasagne noodles, hamburger (ground), container Ricotta cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_060"
+  },
+  {
+    "title": "Virgina's Easy Bake Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 1/2 c. water",
+      "3 c. Mozzarella",
+      "2 eggs",
+      "1/4 tsp. pepper",
+      "32 oz. spaghetti sauce",
+      "2 c. cottage cheese",
+      "1/2 c. grated Parmesan cheese",
+      "1 tsp. salt"
+    ],
+    "steps": [
+      "Brown meat and drain. Add sauce and water and simmer 10 minutes. Combine rest of ingredients in separate bowl and mix well. In large pan, layer as follows: 1 cup meat sauce on bottom, layer of lasagna pasta, 1 1/2 cups of meat sauce, 1/2 cup cheese mix, lasagna pasta, 1 1/2 cups meat sauce, 1/2 cheese, lasagna pasta and rest of meat sauce. Bake at 350\u00b0 for 55 to 60 minutes, covered, then 10 minutes uncovered."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Virgina's Easy Bake Lasagna with ground beef, water, Mozzarella, eggs.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_061"
+  },
+  {
+    "title": "Mexican Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 1/2 lb. hamburger",
+      "1 onion, chopped",
+      "1 can cream of mushroom soup",
+      "1 can cream of chicken soup",
+      "1 can Ro-Tel tomatoes",
+      "1 small can evaporated milk",
+      "1 medium bag Doritos",
+      "grated cheese (Cheddar)",
+      "garlic salt to taste",
+      "pepper to taste"
+    ],
+    "steps": [
+      "Brown hamburger and onion.",
+      "Drain.",
+      "Mix soups, tomatoes and milk and add garlic salt and pepper.",
+      "Layer Doritos in casserole dish.",
+      "Sprinkle hamburger over Doritos.",
+      "Pour soup mixture over hamburger.",
+      "Top with grated cheese.",
+      "Bake 30 minutes at 350\u00b0. Serve with tossed salad."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Mexican Lasagna with hamburger, onion, chopped, cream of mushroom soup, cream of chicken soup.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_062"
+  },
+  {
+    "title": "Potluck Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. lean ground beef",
+      "2 Tbsp. olive oil",
+      "1 medium onion, chopped",
+      "1 green pepper, finely chopped",
+      "3 or 4 (8 oz.) cans tomato sauce or 3 cans tomato sauce and 1 c. spaghetti sauce",
+      "1 lb. small curd cottage cheese (regular or fat-free)",
+      "5 c. wide, cooked noodles (cholesterol-free, if desired)",
+      "1 tsp. basil",
+      "1 tsp. oregano",
+      "1 tsp. parsley",
+      "1 tsp. salt (optional)",
+      "1 tsp. sugar or Sweet 'N Low (optional)"
+    ],
+    "steps": [
+      "Brown ground beef in oil; add onion and green pepper.",
+      "Saute 5 to 10 minutes; drain."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Potluck Lasagne with lean ground beef, olive oil, medium onion, chopped, green pepper, finely chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_063"
+  },
+  {
+    "title": "Pizza Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 (16 oz.) box lasagna noodles",
+      "1 lb. ground beef",
+      "1 (3 lb.) jar Prego spaghetti sauce with meat",
+      "1 tsp. garlic powder",
+      "1/2 tsp. oregano",
+      "1 (16 oz.) container small curd cottage cheese",
+      "2 (8 oz.) pkg. Mozzarella cheese",
+      "Parmesan cheese",
+      "pepperoni"
+    ],
+    "steps": [
+      "Fry ground beef and drain. Add spaghetti sauce, oregano and garlic powder to ground beef. Simmer. Cook noodles as package directs. Stir in cottage cheese to sauce. In greased baking dish, alternate layers of noodles, sauce and cheese. Place pepperoni on top. Bake at 350\u00b0 for 45 minutes."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Pizza Lasagna with box lasagna noodles, ground beef, Prego spaghetti sauce with meat, garlic powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_064"
+  },
+  {
+    "title": "Cheesy Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "3 c. Ricotta cheese",
+      "1 c. Mozzarella cheese, divided",
+      "1/2 c. grated Parmesan cheese",
+      "1/2 c. grated Romano cheese",
+      "2 eggs, lightly beaten",
+      "2 tsp. chopped parsley",
+      "9 lasagne noodles",
+      "3 c. spaghetti sauce"
+    ],
+    "steps": [
+      "Preheat oven to 350\u00b0.",
+      "Combine in large bowl Ricotta, Parmesan, Romano and 1/2 Mozzarella cheese.",
+      "Add eggs and parsley. Soak noodles in cold water for 10 minutes.",
+      "In pan, spread 1/2 cup sauce, then place 3 noodles on top.",
+      "Spread 1/3 Ricotta filling over noodles.",
+      "Pour 1 cup sauce over cheese filling. Repeat layers, ending with sauce."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Cheesy Lasagne with Ricotta cheese, Mozzarella cheese, divided, grated Parmesan cheese, grated Romano cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_065"
+  },
+  {
+    "title": "Luscious Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. hamburger",
+      "1 (6 oz.) can tomato paste",
+      "1 (8 oz.) can tomato sauce",
+      "1 (14 1/2 oz.) can stewed tomatoes",
+      "1 onion",
+      "garlic salt or powder",
+      "oregano and parsley",
+      "salt and pepper",
+      "Italian seasoning",
+      "lasagna noodles",
+      "16 oz. cottage cheese",
+      "16 oz. Mozzarella cheese"
+    ],
+    "steps": [
+      "Brown hamburger with onion, garlic and parsley. Set aside. Combine tomato paste, sauce and stewed tomatoes in a large pot. Add a 14 1/2 ounce can full of water.",
+      "Add hamburger and seasonings to taste.",
+      "Simmer on low until thick, about 3 to 4 hours."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Luscious Lasagna with hamburger, tomato paste, tomato sauce, stewed tomatoes.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_066"
+  },
+  {
+    "title": "Lasagna Low-Fat Recipe (Yields 16 Servings)",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1/4 c. vegetable oil",
+      "1 1/2 diced onion",
+      "2 cloves garlic, minced",
+      "1 medium green pepper, diced",
+      "1/2 lb. mushrooms, sliced",
+      "3/4 lb. ground round",
+      "1 tsp. salt",
+      "1/4 tsp. pepper",
+      "2 (1 lb.) cans tomato sauce",
+      "8 oz. part-skim milk Mozzarella cheese, shredded",
+      "8 oz. part-skim Ricotta cheese or low-fat cottage cheese, divided into 2 even portions",
+      "1 (28 oz.) can Italian-style tomatoes"
+    ],
+    "steps": [
+      "In large saucepan, heat oil.",
+      "Saute onions, garlic and green peppers until softened.",
+      "Add mushrooms and saute until tender. Add ground round, salt and pepper.",
+      "Cook until meat loses red color. Drain off fat.",
+      "Add tomato sauce, tomatoes, tomato paste, basil, oregano and parsley.",
+      "Simmer 1 1/2 hours or until sauce has thickened."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Lasagna Low-Fat Recipe (Yields 16 Servings) with vegetable oil, diced onion, garlic, minced, medium green pepper, diced.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_067"
+  },
+  {
+    "title": "Lasagna Sausage Pinwheels",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. hot Italian link sausage, cut into 1-inch pieces",
+      "3/4 c. chopped onion",
+      "1 clove garlic, minced",
+      "3 c. tomato juice",
+      "1 (6 oz.) can tomato paste",
+      "1/2 c. water",
+      "2 tsp. sugar",
+      "1/2 tsp. salt",
+      "1 bay leaf",
+      "1 (12 oz.) carton cottage cheese",
+      "1 egg, beaten",
+      "1/2 c. grated Parmesan cheese, divided"
+    ],
+    "steps": [
+      "Brown sausage over low heat in a large, heavy skillet; drain sausage on paper towels, reserving 1/4 cup drippings.",
+      "Saute onion and garlic in drippings until crisp-tender.",
+      "Return sausage to skillet; stir in tomato paste, water, sugar, 1/2 teaspoon salt and bay leaf.",
+      "Simmer, uncovered, for 1 hour; stir occasionally. Discard bay leaf."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Lasagna Sausage Pinwheels with hot Italian link sausage, cut into 1-inch pieces, chopped onion, garlic, minced, tomato juice.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_068"
+  },
+  {
+    "title": "Lasagna Casserole",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. lasagna noodles",
+      "2 lb. ground beef",
+      "1 clove garlic",
+      "3/4 c. chopped onion",
+      "2 cans or jars meatless sauce",
+      "1 c. water",
+      "2 tsp. salt",
+      "2 c. or 1 lb. cottage cheese",
+      "2 eggs, beaten",
+      "1 lb. Mozzarella cheese, sliced",
+      "1/2 c. grated Parmesan cheese"
+    ],
+    "steps": [
+      "Cook noodles according to directions.",
+      "Meanwhile, cook next 3 ingredients in saucepan for 10 minutes.",
+      "Add next 3 ingredients and mix well.",
+      "Let simmer for 15 minutes.",
+      "Combine cottage cheese and eggs."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Lasagna Casserole with lasagna noodles, ground beef, garlic, chopped onion.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_069"
+  },
+  {
+    "title": "Easy Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 large jar Prego traditional spaghetti sauce",
+      "1 box lasagna noodles",
+      "2 lb. hamburger",
+      "1/2 lb. Italian sausage",
+      "4 c. Mozzarella cheese",
+      "garlic powder to taste"
+    ],
+    "steps": [
+      "Cook noodles.",
+      "Brown hamburger and sausage; drain.",
+      "Add spaghetti sauce.",
+      "Let simmer 1/2 hour."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [],
+    "description": "Easy Lasagna with large jar Prego traditional spaghetti sauce, box lasagna noodles, hamburger, Italian sausage.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_070"
+  },
+  {
+    "title": "Meatballs Lasagna Style",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. hamburger",
+      "1/4 c. chopped onion",
+      "1/4 c. green pepper",
+      "1/2 c. shredded Mozzarella cheese",
+      "1 egg",
+      "1 c. spaghetti sauce",
+      "1 c. cottage cheese"
+    ],
+    "steps": [
+      "Combine meat, egg, onion and pepper.",
+      "Make 1-inch balls. Place in greased 8 x 8-inch pan.",
+      "Spoon cottage cheese around meatballs.",
+      "Pour sauce over all; sprinkle cheese on top.",
+      "Bake at 350\u00b0 for 50 minutes, or until done."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Meatballs Lasagna Style with hamburger, chopped onion, green pepper, shredded Mozzarella cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_071"
+  },
+  {
+    "title": "One Pot Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "2 lb. egg noodles",
+      "2 small jars Ragu",
+      "2 jars water",
+      "2 lb. ground meat",
+      "1 lb. shredded Mozzarella cheese"
+    ],
+    "steps": [
+      "Brown ground meat and drain grease.",
+      "Add Ragu and water. Bring sauce and meat to a boil.",
+      "Add 1 pound noodles.",
+      "Let them get soft, then add the other pound.",
+      "Cook until noodles are tender.",
+      "Add Mozzarella cheese.",
+      "Stir until melted."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "One Pot Lasagna with egg noodles, small jars Ragu, s water, ground meat.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_072"
+  },
+  {
+    "title": "Microwave Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 (8 oz.) can tomato sauce",
+      "1 Tbsp. dried parsley flakes",
+      "1 tsp. dried oregano leaves",
+      "1 (16 oz.) creamed cottage cheese",
+      "1/4 c. grated Parmesan cheese",
+      "1 egg",
+      "1 Tbsp. dried parsley flakes",
+      "1 tsp. dried basil leaves",
+      "8 (uncooked) lasagne noodles",
+      "2 c. (about 8 oz.) shredded Mozzarella cheese",
+      "3 Tbsp. grated Parmesan cheese"
+    ],
+    "steps": [
+      "Crumble beef into a 1 1/2-quart casserole dish.",
+      "Cover loosely and microwave for 3 minutes on High.",
+      "Break up and stir.",
+      "Cover and microwave until very little pink remains, 2 to 3 minutes longer; drain.",
+      "Stir in spaghetti sauce, tomato sauce, 1 tablespoon parsley and oregano.",
+      "Cover tightly and microwave on High to boiling, 3 to 4 minutes.",
+      "Spread 1 1/3 cups meat sauce in baking dish (12 x 7 1/2 x 2-inches).",
+      "Overlap 4 lasagne noodles on sauce."
+    ],
+    "prep_time_min": 75,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Microwave Lasagne with ground beef, tomato sauce, dried parsley flakes, dried oregano leaves.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_073"
+  },
+  {
+    "title": "Chicken Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1/2 c. margarine",
+      "1/2 c. flour",
+      "1/8 tsp. salt",
+      "1/2 tsp. basil",
+      "2 cans (3 cups) chicken broth",
+      "24 oz. cottage cheese",
+      "1 egg (slightly beaten)",
+      "1/2 lb. lasagna noodles (1/2 box)",
+      "1/2 c. Parmesan cheese",
+      "2 1/2 cup chicken (precooked)",
+      "10 oz. package frozen spinach (thaw and drain)",
+      "1/2 lb. mozzarella cheese"
+    ],
+    "steps": [
+      "Melt margarine in large sauce pan.",
+      "Add flour, salt and basil.",
+      "Stir until thick and comes to a boil.",
+      "Add chicken. Cheese mixture consists of cottage cheese and egg.",
+      "In 9x13 pan, layer chicken mixture, then noodles, then cheese mixture, spinach, Mozzarella cheese.",
+      "Repeat layers.",
+      "Last layer should be chicken. Cover with Parmesan cheese.",
+      "Bake at 375\u00b0 for 45 minutes."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Chicken Lasagna with margarine, flour, salt, basil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_074"
+  },
+  {
+    "title": "Low-Fat Lasagne",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 pkg. uncooked lasagne noodles (dry)",
+      "1 jar low-fat spaghetti sauce",
+      "16 oz. nonfat cottage cheese",
+      "8 oz. nonfat Mozzarella cheese",
+      "8 oz. nonfat Ricotta cheese"
+    ],
+    "steps": [
+      "Layer all items, beginning and ending with sauce.",
+      "Cover tightly with foil to allow the noodles to steam cook.",
+      "Bake at 350\u00b0 for 75 minutes or until noodles are soft.",
+      "Fast and easy!"
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Low-Fat Lasagne with uncooked lasagne noodles (dry), low-fat spaghetti sauce, nonfat cottage cheese, nonfat Mozzarella cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_075"
+  },
+  {
+    "title": "Chicago Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1 onion chopped",
+      "1 lb. ground turkey or buffalo",
+      "2 cans chopped tomatoes",
+      "2 cans tomato sauce",
+      "12 lasagna noodles, cooked",
+      "1 tsp. basil",
+      "2 tsp. oregano",
+      "1 lb. mozarella cheese, sliced",
+      "parmesan cheese"
+    ],
+    "steps": [
+      "Saute onion with ground meat until meat is browned.",
+      "Drain any grease."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Chicago Lasagna with onion chopped, ground turkey or buffalo, s chopped tomatoes, s tomato sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_076"
+  },
+  {
+    "title": "Pepper And Cheese Lasagna (Microwave)",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "1/2 (16 oz.) pkg. lasagna noodles (about 9 noodles)",
+      "2 carrots, shredded",
+      "1 small onion, chopped",
+      "1 red or green pepper, cut into thin strips",
+      "1 (10 oz.) pkg. broccoli or spinach, thawed and drained",
+      "1/2 tsp. salt",
+      "1 (15 oz.) container Ricotta cheese",
+      "2 c. shredded Fontina, Swiss or other cheese",
+      "1/4 c. Parmesan cheese"
+    ],
+    "steps": [
+      "Cook noodles as package directs; drain.",
+      "Separate noodles and set aside."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Pepper And Cheese Lasagna (Microwave) with lasagna noodles (about 9 noodles), carrots, shredded, small onion, chopped, red or green pepper, cut into thin strips.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_077"
+  },
+  {
+    "title": "Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 c. flour",
+      "1 tsp. soda",
+      "1 tsp. salt",
+      "1 Tbsp. sugar",
+      "1 egg",
+      "3 Tbsp. margarine, melted",
+      "1 c. buttermilk"
+    ],
+    "steps": [
+      "Mix dry ingredients.",
+      "Add egg, margarine and buttermilk. Stir by hand until well blended.",
+      "Pour onto non-stick pan or griddle with a little oil added.",
+      "Cook until bubbly and turn over."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Pancakes with flour, soda, salt, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_078"
+  },
+  {
+    "title": "Mom's Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 c. sifted all-purpose flour",
+      "2 tsp. baking powder",
+      "1/2 tsp. salt",
+      "2 Tbsp. sugar",
+      "1 egg",
+      "1 c. milk",
+      "3 Tbsp. butter or margarine, melted"
+    ],
+    "steps": [
+      "Sift flour with baking powder, salt and sugar into a medium bowl.",
+      "With rotary beater, beat egg.",
+      "Add milk and butter; beat until well mixed.",
+      "Pour this into dry ingredients; beat only until combined.",
+      "Batter will be lumpy."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Mom's Pancakes with sifted all-purpose flour, baking powder, salt, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_079"
+  },
+  {
+    "title": "Paw Paw's Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "2 eggs",
+      "1 1/2 Tbsp. sugar",
+      "1 1/2 c. self-rising flour",
+      "1 c. milk",
+      "3 to 4 Tbsp. oleo, melted",
+      "vanilla to taste"
+    ],
+    "steps": [
+      "Beat eggs.",
+      "Add sugar and mix well.",
+      "Stir in flour and milk. Beat until smooth.",
+      "Add melted oleo and stir thoroughly.",
+      "Add vanilla.",
+      "Pour onto preheated skillet or griddle.",
+      "Turn when bubbles appear."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Paw Paw's Pancakes with eggs, sugar, self-rising flour, milk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_080"
+  },
+  {
+    "title": "Puff Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "2 eggs",
+      "1/2 c. flour",
+      "1/2 c. milk",
+      "2 Tbsp. melted butter",
+      "1 Tbsp. sugar",
+      "1/4 tsp. salt"
+    ],
+    "steps": [
+      "Preheat oven to 425\u00b0.",
+      "Grease a 10-inch cast-iron or ovenproof skillet.",
+      "Beat eggs and add rest of ingredients.",
+      "Beat until smooth.",
+      "Pour into skillet and bake 15 minutes.",
+      "Reduce heat to 350\u00b0 and bake 10 to 15 minutes or until puffy and golden brown. Serve with Vanilla Cream Syrup.",
+      "Serves 6."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Puff Pancakes with eggs, flour, milk, melted butter.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_081"
+  },
+  {
+    "title": "Plattar (Swedish Pancakes)",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 c. flour",
+      "2 Tbsp. sugar",
+      "1/4 tsp. salt",
+      "3 eggs",
+      "3 c. milk"
+    ],
+    "steps": [
+      "Sift flour into bowl.",
+      "Add sugar and salt.",
+      "Add eggs and milk gradually, stirring until well blended let stand 2 hours.",
+      "Heat Swedish pancake pan (or ordinary pancake pan) and butter well. Beat batter again.",
+      "Pour by tablespoonfuls into sections of pan and fry on both sides until nicely browned.",
+      "Place on very hot platter; serve immediately with Lingonberries."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Plattar (Swedish Pancakes) with flour, sugar, salt, eggs.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_082"
+  },
+  {
+    "title": "Maple-Bacon Oven Pancake",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 1/2 c. Bisquick",
+      "1 Tbsp. sugar",
+      "1 1/2 c. shredded cheese",
+      "3/4 c. milk",
+      "1/4 c. syrup",
+      "2 eggs"
+    ],
+    "steps": [
+      "Heat oven to 425\u00b0.",
+      "Grease and flour 9 x 13-inch pan.",
+      "Beat all ingredients except bacon and 1 cup cheese with hand beater. Pour into pan.",
+      "Bake, uncovered, for 10 to 15 minutes.",
+      "Sprinkle pancake with bacon and cheese.",
+      "Bake until the cheese is melted (3 to 4 minutes).",
+      "Serves 8 to 10."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Maple-Bacon Oven Pancake with Bisquick, sugar, shredded cheese, milk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_083"
+  },
+  {
+    "title": "Swedish Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "4 eggs, separated",
+      "2 c. buttermilk",
+      "1 c. flour",
+      "1 tsp. salt",
+      "2 tsp. sugar",
+      "1/4 tsp. soda"
+    ],
+    "steps": [
+      "Beat egg whites and fold in last.",
+      "Make small pancakes."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Swedish Pancakes with eggs, separated, buttermilk, flour, salt.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_084"
+  },
+  {
+    "title": "Potato Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "4 c. mashed potatoes",
+      "2 Tbsp. flour",
+      "2 eggs, lightly beaten",
+      "1 Tbsp. baking powder",
+      "pinch of salt",
+      "1 c. milk"
+    ],
+    "steps": [
+      "Mix all together and beat into batter.",
+      "Place on hot greased grill; fry on both sides until golden brown."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Potato Pancakes with mashed potatoes, flour, eggs, lightly beaten, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_085"
+  },
+  {
+    "title": "Palachinke (Filled Pancakes)",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 1/4 c. cake flour",
+      "1 1/4 tsp. baking powder",
+      "1/2 tsp. salt",
+      "1 tsp. sugar",
+      "1 c. milk",
+      "2 egg yolks, beaten",
+      "2 Tbsp. melted butter",
+      "2 egg whites, stiffly beaten"
+    ],
+    "steps": [
+      "Sift flour, measure and add baking powder, salt and sugar; sift once more.",
+      "Add milk to egg yolks.",
+      "Add flour mixture gradually; mix to smooth batter.",
+      "Add butter. Fold in egg whites. Bake on hot, greased griddle."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Palachinke (Filled Pancakes) with cake flour, baking powder, salt, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_086"
+  },
+  {
+    "title": "Raw Potato Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "3 medium raw potatoes, grated",
+      "2 eggs, separated",
+      "1 1/2 Tbsp. flour",
+      "1/2 tsp. baking powder",
+      "1 tsp. salt"
+    ],
+    "steps": [
+      "Beat egg yolks; stir in grated potatoes and a mixture of flour, baking powder and salt.",
+      "Mix well.",
+      "Beat egg whites until rounded peaks form.",
+      "Fold into potato mixture.",
+      "Spoon about 2 tablespoons of batter for each pancake into skillet (hot grease). Brown on both sides.",
+      "Serve with applesauce."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Raw Potato Pancakes with medium raw potatoes, grated, eggs, separated, flour, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_087"
+  },
+  {
+    "title": "German Pancake",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "6 eggs",
+      "3/4 c. flour",
+      "3/4 c. milk",
+      "1/3 c. sugar",
+      "1 Tbsp. vanilla extract",
+      "1 pinch salt",
+      "4 Tbsp. butter or margarine"
+    ],
+    "steps": [
+      "Preheat oven to 400\u00b0.",
+      "Blend it all together and put into a 10-inch skillet (cast-iron preferred).",
+      "Prepare skillet by smearing 4 tablespoons butter all around the inside.",
+      "Bake 25 to 35 minutes, until golden brown."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "German Pancake with eggs, flour, milk, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_088"
+  },
+  {
+    "title": "Banana Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 egg",
+      "1 1/4 c. buttermilk or soured milk",
+      "1 1/4 c. flour",
+      "2 Tbsp. cooking oil",
+      "1 tsp. baking powder",
+      "1 c. mashed banana",
+      "2 Tbsp. sugar",
+      "1/2 tsp. baking soda",
+      "1 Tbsp. lemon juice"
+    ],
+    "steps": [
+      "Beat egg.",
+      "Beat in remaining ingredients until smooth.",
+      "Serve with honey or currant jelly or dust with confectioners sugar."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Banana Pancakes with egg, buttermilk or soured milk, flour, cooking oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_089"
+  },
+  {
+    "title": "Flannel Cakes (Oatmeal Pancakes)",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "2 c. buttermilk",
+      "1/2 c. oats",
+      "1 1/2 c. flour",
+      "2 eggs",
+      "1 Tbsp. oil",
+      "1/2 tsp. baking soda",
+      "1 tsp. baking powder",
+      "1 Tbsp. sugar"
+    ],
+    "steps": [
+      "Combine buttermilk and oats and let stand 15 minutes.",
+      "Add remaining ingredients to oat mixture.",
+      "Grill as for pancakes."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Flannel Cakes (Oatmeal Pancakes) with buttermilk, oats, flour, eggs.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_090"
+  },
+  {
+    "title": "Baking Powder Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 1/2 c. flour",
+      "1 tsp. salt",
+      "3 Tbsp. sugar",
+      "2 tsp. baking powder",
+      "2 eggs, lightly beaten",
+      "1 1/4 c. milk",
+      "3 Tbsp. vegetable oil"
+    ],
+    "steps": [
+      "Mix flour, salt, sugar and baking powder together well.",
+      "Add eggs to milk, then pour into dry ingredients.",
+      "Add oil and mix together.",
+      "Proceed as for making pancakes from packaged pancake mix."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Baking Powder Pancakes with flour, salt, sugar, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_091"
+  },
+  {
+    "title": "Flannel Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "3 c. flour",
+      "4 tsp. baking powder",
+      "1 tsp. salt",
+      "3 c. sweet milk",
+      "2 eggs, separated",
+      "2 Tbsp. melted butter"
+    ],
+    "steps": [
+      "Measure and sift dry ingredients together.",
+      "Beat egg yolks and add milk.",
+      "Pour milk mixture slowly into dry ingredients; beat thoroughly.",
+      "Add melted butter, then fold in stiffly beaten egg whites.",
+      "Bake on hot griddle.",
+      "Makes about 12 medium sized cakes."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Flannel Pancakes with flour, baking powder, salt, sweet milk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_092"
+  },
+  {
+    "title": "Zucchini Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 c. flour",
+      "4 c. shredded zucchini",
+      "1 1/2 tsp. salt",
+      "2 eggs",
+      "1/4 tsp. pepper"
+    ],
+    "steps": [
+      "Mix together.",
+      "Drop by heaping tablespoons onto oiled frying pan.",
+      "Brown on both sides.",
+      "Make about 20 to 25 pancakes.",
+      "May add onion and browned hamburger to the mixture."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Zucchini Pancakes with flour, shredded zucchini, salt, eggs.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_093"
+  },
+  {
+    "title": "Whole Wheat Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1/2 c. wheat germ",
+      "2 c. whole wheat flour",
+      "2 tsp. baking powder",
+      "1 Tbsp. brown sugar",
+      "2 large eggs",
+      "2 1/2 to 3 c. milk",
+      "2 Tbsp. oil"
+    ],
+    "steps": [
+      "Stir together dry ingredients with a whisk.",
+      "Beat the eggs slightly and combine with the milk, then add to the dry ingredients.",
+      "Stir in oil.",
+      "Heat the pan (nonstick), but do not grease it.",
+      "Pour batter into the pan by large spoonful.",
+      "Cook over medium heat, turning once when bubbles come to the surface and pop and the edges are slightly dry.",
+      "Serves 4 to 6."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Whole Wheat Pancakes with wheat germ, whole wheat flour, baking powder, brown sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_094"
+  },
+  {
+    "title": "Sunday Best Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 egg",
+      "3/4 c. milk",
+      "2 Tbsp. vegetable oil",
+      "1 c. self-rising flour",
+      "2 Tbsp. sugar"
+    ],
+    "steps": [
+      "Combine and beat until smooth.",
+      "Bake 1/4 cup batter for each pancake in a nonstick skillet.",
+      "Serves 3."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Sunday Best Pancakes with egg, milk, vegetable oil, self-rising flour.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_095"
+  },
+  {
+    "title": "Blender Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "3 eggs",
+      "1/2 c. flour",
+      "white powdered sugar",
+      "butter",
+      "1/2 c. milk",
+      "2 Tbsp. cooking oil",
+      "maple syrup"
+    ],
+    "steps": [
+      "Separate yolks from whites.",
+      "Beat egg whites until stiff.",
+      "In blender, put yolks, milk, 2 tablespoons oil and flour; beat.",
+      "Pour into whites; fold together.",
+      "Cook in buttered pan only the first time at 350\u00b0.",
+      "Pour 1, 1/2 cups of batter into pan.",
+      "When formed together, turn.",
+      "Serve with butter, powdered sugar and maple syrup."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Blender Pancakes with eggs, flour, white powdered sugar, butter.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_096"
+  },
+  {
+    "title": "Blueberry Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "2 c. fresh blueberries",
+      "3 c. self-rising flour",
+      "3 eggs, beaten",
+      "2 Tbsp. oil",
+      "2 Tbsp. sugar",
+      "2 c. milk"
+    ],
+    "steps": [
+      "Wash and remove stems from berries; drain well, set aside. Sift flour and sugar together.",
+      "Combine eggs, milk, and oil. Gradually add to dry ingredients.",
+      "Stir only until coated with batter.",
+      "Pour onto a hot lightly greased griddle.",
+      "Cook until surface is covered with bubbles.",
+      "Turn and cook until bottom is brown."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Blueberry Pancakes with fresh blueberries, self-rising flour, eggs, beaten, oil.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_097"
+  },
+  {
+    "title": "Daddy's G I Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "2 c. flour",
+      "4 tsp. baking powder",
+      "1 tsp. salt",
+      "2 Tbsp. sugar",
+      "1 egg",
+      "1 1/2 c. milk",
+      "1/3 c. oil"
+    ],
+    "steps": [
+      "Mix flour, baking powder, salt and sugar in a large bowl.",
+      "Set aside. Beat egg.",
+      "Add milk and oil.",
+      "Combine liquid and flour mixture until mixed.",
+      "For best results, use wire whisk, leaving batter lumpy.",
+      "Cook pancakes in heated, greased frypan until covered with bubbles.",
+      "Turn pancakes and brown on the other side. Makes 12 medium size pancakes.",
+      "Great for waffles, too."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Daddy's G I Pancakes with flour, baking powder, salt, sugar.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_098"
+  },
+  {
+    "title": "King Oscar Pancakes With Rum Sauce",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "3 c. flour",
+      "3 tsp. sugar",
+      "6 egg yolks, beaten",
+      "3 tsp. baking powder",
+      "4 c. milk",
+      "6 Tbsp. margarine",
+      "6 egg whites, stiffly beaten",
+      "1 1/2 Tbsp. vanilla",
+      "1 1/2 tsp. salt"
+    ],
+    "steps": [
+      "Sift flour once.",
+      "Measure.",
+      "Add baking powder, sugar and salt. Combine milk and egg yolks and add to flour gradually, beating to a smooth batter.",
+      "Add shortening.",
+      "Fold in beaten egg whites and vanilla.",
+      "Pour this in hot buttered frying pan.",
+      "Brown on both sides.",
+      "Alternate six of these pancakes with Rum Sauce."
+    ],
+    "prep_time_min": 60,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "King Oscar Pancakes With Rum Sauce with flour, sugar, egg yolks, beaten, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_099"
+  },
+  {
+    "title": "Homemade Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "1 c. flour",
+      "1/4 tsp. salt",
+      "2 Tbsp. sugar",
+      "1 egg",
+      "2 tsp. baking powder",
+      "1/4 c. milk",
+      "melted butter"
+    ],
+    "steps": [
+      "Mix together and fry."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Homemade Pancakes with flour, salt, sugar, egg.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_100"
+  },
+  {
+    "title": "Cherry Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "2 cans cherry pie mix",
+      "1 box deluxe white cake mix",
+      "1 stick butter",
+      "1 c. ground nuts"
+    ],
+    "steps": [
+      "Grease a 9 x 12-inch cake pan.",
+      "Spread cherry pie mix.",
+      "Sift cake mix and spread it dry over the cherries.",
+      "Top with ground nuts.",
+      "Melt butter and pour over top.",
+      "Bake 45 minutes in a 350\u00b0 oven."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Cherry Pizza with s cherry pie mix, box deluxe white cake mix, stick butter, ground nuts.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_101"
+  },
+  {
+    "title": "Fruit Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 box yellow cake mix",
+      "1/4 c. water",
+      "1/4 c. brown sugar",
+      "1/2 c. soft butter",
+      "2 eggs",
+      "1/2 c. chopped nuts"
+    ],
+    "steps": [
+      "Mix ingredients and spread into 2 greased pizza pans.",
+      "Bake at 350\u00b0 for 15-20 minutes."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Fruit Pizza with box yellow cake mix, water, brown sugar, soft butter.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_102"
+  },
+  {
+    "title": "Pizza Casserole",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 lb. ground beef",
+      "14 oz. Pizza Quick sauce",
+      "2 c. shredded Mozzarella cheese",
+      "1 jar sliced mushrooms",
+      "3/4 c. biscuit mix",
+      "1 1/2 c. milk",
+      "2 eggs"
+    ],
+    "steps": [
+      "Brown beef; stir to crumble.",
+      "Drain.",
+      "Put beef into 8-inch baking dish.",
+      "Top with sauce, Mozzarella cheese and sliced mushrooms.",
+      "Combine the biscuit mix, milk and eggs; beat until smooth, then evenly pour over casserole.",
+      "Bake at 400\u00b0 for 30 to 35 minutes."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Pizza Casserole with ground beef, Pizza Quick sauce, shredded Mozzarella cheese, sliced mushrooms.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_103"
+  },
+  {
+    "title": "Brown Rice Pizza (Light)",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 1/2 c. cooked brown rice (without salt or fat)",
+      "1 1/2 c. (6 oz.) shredded part skim milk Mozzarella cheese, divided",
+      "1 egg, beaten (I use Second Nature)",
+      "1 tsp. oregano, divided",
+      "Pam",
+      "1 c. broccoli flowerets",
+      "1 c. sliced zucchini",
+      "1 c. sliced fresh mushrooms",
+      "1 small onion, sliced",
+      "8 oz. can tomato sauce (no salt)"
+    ],
+    "steps": [
+      "Combine rice, 1/2 cup cheese and 1/2 teaspoon oregano in a medium bowl.",
+      "Stir well.",
+      "Press mixture evenly into a 12-inch pizza pan coated with Pam.",
+      "Bake at 400\u00b0 for 25 minutes.",
+      "Coat a large nonstick skillet with Pam.",
+      "Place over medium-high heat until hot.",
+      "Add broccoli, zucchini, mushrooms and onion.",
+      "Saute until tender."
+    ],
+    "prep_time_min": 75,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Brown Rice Pizza (Light) with cooked brown rice (without salt or fat), (6 oz.) shredded part skim milk Mozzarella cheese, divided, egg, beaten (I use Second Nature), oregano, divided.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_104"
+  },
+  {
+    "title": "Zucchini Pizzas",
+    "dish_category": "pizza",
+    "ingredients": [
+      "3/4 c. spaghetti sauce (Garden-Style)",
+      "1/2 c. (2 oz.) shredded part-skim Mozzarella cheese",
+      "2 Tbsp. grated Parmesan cheese",
+      "2 Tbsp. minced onions",
+      "1/4 tsp. fresh ground black pepper",
+      "1/4 tsp. dried oregano",
+      "24 (1/2-inch) slices fresh zucchini",
+      "24 slices fresh mushrooms"
+    ],
+    "steps": [
+      "Combine spaghetti sauce, onions, black pepper and oregano in a small bowl.",
+      "Combine Mozzarella cheese and Parmesan cheese.",
+      "Place zucchini coins on a cookie sheet which has been coated with vegetable cooking spray (approximately 1-inch apart).",
+      "Top with sauce, then a mushroom slice.",
+      "Sprinkle with cheese mixture. Broil until hot and bubbly."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Zucchini Pizzas with spaghetti sauce (Garden-Style), (2 oz.) shredded part-skim Mozzarella cheese, grated Parmesan cheese, minced onions.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_105"
+  },
+  {
+    "title": "Pizza Cups",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1/4 c. minced onion",
+      "1/2 tsp. salt (optional)",
+      "8 oz. tomato sauce",
+      "1 tsp. Italian seasoning",
+      "2 cans refrigerated biscuits (10 count)",
+      "1/2 to 3/4 c. grated cheese"
+    ],
+    "steps": [
+      "Brown ground beef and onion.",
+      "Drain.",
+      "Stir in tomato sauce and seasonings.",
+      "Cook 5 minutes.",
+      "Place biscuits in greased muffin tins, pressing to cover bottom and sides.",
+      "Spoon meat mixture into biscuits.",
+      "Top with cheese.",
+      "Bake at 400\u00b0 for 12 minutes or until brown."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Pizza Cups with ground beef, minced onion, salt (optional), tomato sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_106"
+  },
+  {
+    "title": "Vegetable Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 (8 oz.) pkg. crescent rolls",
+      "2 (8 oz. each) pkg. cream cheese, softened",
+      "1 c. mayonnaise",
+      "1/2 (10 oz.) pkg. Hidden Valley Ranch mix",
+      "4 c. finely chopped raw vegetables (cauliflower, broccoli, carrots, green onions, etc.)"
+    ],
+    "steps": [
+      "Press crescent rolls flat on baking sheet. Do not separate rolls. Bake according to package directions until golden brown. In a medium bowl, combine cream cheese, mayonnaise and dressing mix. Spread mixture on cooled crescent rolls.",
+      "Top with finely chopped vegetables, spreading evenly to cover rolls. Chill until firm. (Best made a day ahead.) Serves 12 to 15."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Vegetable Pizza with crescent rolls, cream cheese, softened, mayonnaise, Hidden Valley Ranch mix.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_107"
+  },
+  {
+    "title": "Kim's Chicken Alfredo Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 c. Ragu light alfredo sauce",
+      "1/2 c. green pepper",
+      "chopped onion",
+      "2 jalapenos, finely chopped",
+      "garlic salt",
+      "pepper (coarse)",
+      "jerk spice or any spice you prefer",
+      "dried parsley flakes",
+      "2 chicken breasts, cooked",
+      "Mozzarella cheese",
+      "pizza crust",
+      "cornmeal"
+    ],
+    "steps": [
+      "Make pizza crust according to directions. If you use a pizza stone, sprinkle with cornmeal before rolling out crust. Cover crust with sauce and all ingredients, ending with cheese. Bake at 450\u00b0 for 15 minutes."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Kim's Chicken Alfredo Pizza with Ragu light alfredo sauce, green pepper, chopped onion, jalapenos, finely chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_108"
+  },
+  {
+    "title": "Strawberry Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "2 sticks melted butter",
+      "2 c. plain flour",
+      "1/3 c. light brown sugar",
+      "1 c. chopped pecans",
+      "1 (8 oz.) pkg. softened cream cheese",
+      "3 c. sifted confectioners sugar",
+      "1 large Cool Whip (8 oz.)",
+      "1 c. sugar",
+      "1 c. water",
+      "3 Tbsp. cornstarch",
+      "3 Tbsp. strawberry jello",
+      "1 Tbsp. lemon juice"
+    ],
+    "steps": [
+      "Crust:",
+      "Mix first 4 ingredients.",
+      "Press into a rectangular pan.",
+      "Brown lightly at 350\u00b0 for 20 to 25 minutes.",
+      "Cool."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Strawberry Pizza with sticks melted butter, plain flour, light brown sugar, chopped pecans.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_109"
+  },
+  {
+    "title": "Crock Pot Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 1/2 pounds hamburger",
+      "2 small jars pizza sauce",
+      "1 bag pizza cheese",
+      "1 can mushrooms",
+      "1 chopped onion",
+      "1 chopped green pepper",
+      "1 large bag noodles",
+      "1 package pepperoni"
+    ],
+    "steps": [
+      "Brown meat with onions and peppers and drain.",
+      "Add sauce and simmer.",
+      "Cook noodles and drain.",
+      "Layer meat, noodles, mushrooms, cheese and pepperoni in crock pot.",
+      "Cook on low for 90 minutes."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free"
+    ],
+    "description": "Crock Pot Pizza with pounds hamburger, small jars pizza sauce, bag pizza cheese, mushrooms.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_110"
+  },
+  {
+    "title": "Party Pizza Appetizers (Makes 90)",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 lb. hot sausage, cooked, drained and crumbled",
+      "1 c. chopped onion",
+      "1/2 c. sharp cheese, grated",
+      "1/2 c. grated Parmesan cheese (from wedge)",
+      "1 1/2 tsp. oregano",
+      "1 tsp. garlic salt",
+      "1 (8 oz.) can tomato sauce",
+      "1 (6 oz.) can tomato paste",
+      "3 cans flaky biscuits"
+    ],
+    "steps": [
+      "Combine all ingredients, except biscuits.",
+      "Separate each biscuit into 3 pizza rounds.",
+      "Spread with mixture.",
+      "Put pizza on cookie sheet and store in plastic bags.",
+      "Bake frozen pizzas at 425\u00b0 for 10 minutes.",
+      "Great for a cocktail party."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free"
+    ],
+    "description": "Party Pizza Appetizers (Makes 90) with hot sausage, cooked, drained and crumbled, chopped onion, sharp cheese, grated, grated Parmesan cheese (from wedge).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_111"
+  },
+  {
+    "title": "Pizza Dippers",
+    "dish_category": "pizza",
+    "ingredients": [
+      "10 oz. can Pillsbury refrigerator pizza crust",
+      "2 Tbsp. margarine",
+      "1 1/2 tsp. pizza seasonings",
+      "4 oz. (1 c.) shredded Mozzarella cheese",
+      "8 oz. pizza sauce (warm)"
+    ],
+    "steps": [
+      "Grease 1 large cookie sheet and unroll pizza dough, cutting the rectangle in half crosswise, then cutting 8 (1-inch) strips. Place strips apart on cookie sheet and brush with margarine. Sprinkle evenly with seasoning and put into 350\u00b0 oven for 11 to 17 minutes.",
+      "Bring out long enough to sprinkle cheese on top and return to melt.",
+      "Serve immediately with warm pizza sauce to dip. Makes 16 servings."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Pizza Dippers with can Pillsbury refrigerator pizza crust, margarine, pizza seasonings, (1 c.) shredded Mozzarella cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_112"
+  },
+  {
+    "title": "Fat Free Pizza Treats",
+    "dish_category": "pizza",
+    "ingredients": [
+      "toasted English muffins",
+      "pizza sauce",
+      "1 Tbsp. (skim) Mozzarella cheese",
+      "Parmesan cheese",
+      "grated onion",
+      "sliced mushrooms",
+      "chopped green pepper"
+    ],
+    "steps": [
+      "Top English muffins with pizza sauce and toppings of your choice ending with cheese.",
+      "Toast in toaster oven until cheese melts."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Fat Free Pizza Treats with toasted English muffins, pizza sauce, (skim) Mozzarella cheese, Parmesan cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_113"
+  },
+  {
+    "title": "Pizza Dip",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1/4 c. minced onion",
+      "2 cloves garlic, minced",
+      "1 (8 oz.) can tomato sauce",
+      "1/4 c. catsup",
+      "1 tsp. sugar",
+      "1 tsp. oregano",
+      "1/4 c. Parmesan cheese",
+      "1 (8 oz.) pkg. cream cheese, softened"
+    ],
+    "steps": [
+      "Saute ground beef with onion and garlic in skillet until brown; drain.",
+      "Add next 4 ingredients, mixing well.",
+      "Simmer for 10 minutes.",
+      "Add Parmesan cheese, mixing well.",
+      "Mix in cream cheese. Pour into chafing dish.",
+      "Serve warm with taco chips.",
+      "Makes 2 1/2 cups."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Pizza Dip with ground beef, minced onion, garlic, minced, tomato sauce.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_114"
+  },
+  {
+    "title": "Avocado-Beef Tortilla Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1/2 tsp. salt",
+      "1 clove garlic, minced",
+      "1/4 lb. sliced mushrooms",
+      "1 (7 oz.) can green chili",
+      "4 large tortillas",
+      "1 avocado",
+      "1/2 c. chopped onions",
+      "1/2 c. chopped green peppers",
+      "1 (2 1/2 oz.) can sliced ripe olives",
+      "1/2 lb. shredded Monterey Jack cheese"
+    ],
+    "steps": [
+      "Brown crumbled meat and drain.",
+      "Add salt, garlic, mushrooms and green chili.",
+      "Cook over high heat for 3 to 5 minutes until liquid has evaporated.",
+      "Brush 4 large tortillas with oil and place on cookie sheet.",
+      "Spread with meat mixture."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Avocado-Beef Tortilla Pizza with ground beef, salt, garlic, minced, sliced mushrooms.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_115"
+  },
+  {
+    "title": "Veggie Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 c. cottage cheese",
+      "1 (8 oz.) pkg. cream cheese",
+      "1 pkg. dry Ranch dressing mix",
+      "1/2 c. mayonnaise",
+      "2 pkg. crescent rolls",
+      "1/2 c. onion, broccoli, cauliflower, tomatoes and mushrooms"
+    ],
+    "steps": [
+      "Mix together cottage cheese, cream cheese, Ranch dressing mix and mayo.",
+      "Spread crescent rolls on 8 x 10-inch sheet.",
+      "Put in oven as directed for 10 minutes.",
+      "Let cool.",
+      "Spread on first mixture.",
+      "Spread mixture of veggies over cold dough.",
+      "Sprinkle Parmesan cheese and oregano over all.",
+      "Heat and serve. Delightful."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Veggie Pizza with cottage cheese, cream cheese, dry Ranch dressing mix, mayonnaise.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_116"
+  },
+  {
+    "title": "Pocket Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 c. flour",
+      "1/3 c. milk",
+      "1 tsp. canola oil",
+      "1 tsp. baking powder",
+      "1/2 tsp. salt"
+    ],
+    "steps": [
+      "Beat in a bowl until dough leaves sides.",
+      "Turn onto a lightly floured surface; gather into a ball.",
+      "Knead 10 times (I had fun doing this).",
+      "Cover with a bowl; let stand 15 minutes."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Pocket Pizza with flour, milk, canola oil, baking powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_117"
+  },
+  {
+    "title": "Mock Pizza Snack",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 (8 oz.) pkg. cream cheese (room temperature)",
+      "1 (1 lb.) pkg. bulk sausage",
+      "1 green pepper, diced",
+      "tortilla chips",
+      "1 jar of your favorite salsa",
+      "1 medium onion, diced",
+      "1 lb. Provolone cheese, shredded"
+    ],
+    "steps": [
+      "Fry and crumble sausage.",
+      "Spread cream cheese onto pizza pan. Cover with salsa followed by sausage, onion, green pepper and cheese.",
+      "Scoop up onto tortilla chips to serve."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free"
+    ],
+    "description": "Mock Pizza Snack with cream cheese (room temperature), bulk sausage, green pepper, diced, tortilla chips.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_118"
+  },
+  {
+    "title": "Pepperoni Pizza Casserole",
+    "dish_category": "pizza",
+    "ingredients": [
+      "2 bags rice, cooked",
+      "1/4 cup parmesan cheese",
+      "1 tsp. oregano",
+      "1/2 tsp. garlic powder",
+      "2 eggs",
+      "1 jar (16 oz.) spaghetti sauce",
+      "Sliced green pepper",
+      "4 oz. pepperoni, sliced",
+      "4 oz. mushroom, sliced",
+      "8 oz. mozzarella cheese"
+    ],
+    "steps": [
+      "Mix rice, parmesan cheese, oregano, garlic powder and eggs. Blend together. Put in greased 9 x 13 casserole and bake 10 minutes. Pour jar of spaghetti sauce over rice mixture. Add sliced green pepper, pepperoni, mushrooms and mozzarella cheese. Bake 15 minutes longer."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Pepperoni Pizza Casserole with bags rice, cooked, parmesan cheese, oregano, garlic powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_119"
+  },
+  {
+    "title": "Apple Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 3/4 c. flour",
+      "1/2 c. shortening",
+      "1 tsp. salt",
+      "6 apples",
+      "1 c. cornflakes, crushed",
+      "3/4 c. sugar",
+      "1/2 tsp. cinnamon",
+      "butter",
+      "1 egg",
+      "1/2 c. milk",
+      "1/2 tsp. vanilla",
+      "2 Tbsp. sugar"
+    ],
+    "steps": [
+      "Mix first 3 ingredients together and roll out to fit a cookie sheet.",
+      "Peel and slice apples; crush cornflakes and sprinkle on pastry.",
+      "Place apples in row until sheet is filled, then make a mixture of 3/4 cup sugar and 1/2 teaspoon cinnamon and sprinkle on apples.",
+      "Dot with butter.",
+      "Bake at 400\u00b0 for approximately 15 minutes.",
+      "Beat egg, milk, vanilla and 2 tablespoons sugar; pour over apples.",
+      "Bake again until custard sets, approximately 5 minutes."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Apple Pizza with flour, shortening, salt, apples.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_120"
+  },
+  {
+    "title": "Pizza Pepperoni",
+    "dish_category": "pizza",
+    "ingredients": [
+      "4 oz. shredded Mozzarella",
+      "1 egg",
+      "1 c. milk",
+      "1 c. thin sliced pepperoni",
+      "3/4 c. flour",
+      "1/8 tsp. garlic powder",
+      "1/8 tsp. oregano"
+    ],
+    "steps": [
+      "Mix all ingredients together.",
+      "Pour into a greased 8 x 8-inch pan. Bake at 350\u00b0 for 25 to 30 minutes. Cut into squares when cooled."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Pizza Pepperoni with shredded Mozzarella, egg, milk, thin sliced pepperoni.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_121"
+  },
+  {
+    "title": "Pizza Crust",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1/2 c. warm water",
+      "1 pkg. active dry yeast",
+      "1 1/2 c. flour",
+      "1/2 tsp. salt",
+      "1 Tbsp. oil"
+    ],
+    "steps": [
+      "Dissolve yeast in water.",
+      "Let stand 5 minutes.",
+      "Stir in flour, salt and oil.",
+      "Knead until a smooth ball.",
+      "Let rise in a greased, covered bowl about 10 minutes.",
+      "Pat in a greased pizza pan or cookie sheet.",
+      "Bake at 425\u00b0 for 20 to 25 minutes.",
+      "I double this recipe for an easier to handle, thicker crust!"
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Pizza Crust with warm water, active dry yeast, flour, salt.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_122"
+  },
+  {
+    "title": "Taco Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "1 white onion, chopped",
+      "1 lb. extra lean ground beef",
+      "chili powder",
+      "garlic powder",
+      "cumin",
+      "cayenne pepper",
+      "paprika",
+      "salt and pepper",
+      "1/2 c. tomato salsa",
+      "1/3 c. low fat refried beans",
+      "1 pizza crust",
+      "2 tomatoes, diced"
+    ],
+    "steps": [
+      "Cook pasta according to directions.",
+      "Drain pasta; rinse with cold water.",
+      "Drain again.",
+      "Meanwhile, in a large skillet cook turkey, lamb or beef, onion and garlic until meat is brown and onion is tender.",
+      "Drain fat.",
+      "Stir in tomato sauce, wine or beef broth, parsley, oregano, salt and cinnamon.",
+      "Bring to boiling; reduce heat.",
+      "Simmer, uncovered, for 5 minutes."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Taco Pizza with white onion, chopped, extra lean ground beef, chili powder, garlic powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_123"
+  },
+  {
+    "title": "Ramen Cole Slaw",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1 (1 lb.) bag cole slaw mix",
+      "1/2 bunch green onions",
+      "1/2 c. chopped red pepper",
+      "1 c. sunflower seeds",
+      "1 c. slivered almonds",
+      "2 pkg. Ramen noodles (any flavor)",
+      "1/2 c. oil",
+      "1/3 c. vinegar",
+      "1/3 c. sugar"
+    ],
+    "steps": [
+      "Mix the oil, vinegar and sugar with the seasoning packet for the dressing.",
+      "Mix cabbage, red peppers, nuts and onions with dressing.",
+      "Add broken Ramen noodles just before serving."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Ramen Cole Slaw with bag cole slaw mix, bunch green onions, chopped red pepper, sunflower seeds.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_124"
+  },
+  {
+    "title": "Ramen Cabbage Salad",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1/2 head cabbage, shredded",
+      "4 green onions, sliced",
+      "1 pkg. chicken flavored Ramen noodles, crushed",
+      "2 tsp. toasted sesame seed",
+      "1/2 c. toasted slivered almonds"
+    ],
+    "steps": [
+      "Combine and mix well."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "description": "Ramen Cabbage Salad with head cabbage, shredded, green onions, sliced, chicken flavored Ramen noodles, crushed, toasted sesame seed.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_125"
+  },
+  {
+    "title": "Ramen Noodle Cole Slaw",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1 head shredded cabbage or 1 pkg. slaw mix",
+      "5 green onions, sliced diagonally",
+      "1 Tbsp. sunflower seeds (more, if desired)",
+      "1/2 c. sliced almonds",
+      "1 pkg. Ramen noodles (chicken flavor; do not cook)",
+      "1/2 c. vegetable oil",
+      "3 Tbsp. tarragon vinegar",
+      "1/3 c. sugar",
+      "chicken flavor packet from noodles"
+    ],
+    "steps": [
+      "Mix oil, sugar and chicken flavor packet in microwavable bowl for 1 minute in microwave. Add vinegar and stir well. Just before serving, mix first 4 ingredients together. Add Ramen noodles by breaking them up in mixture. Do not cook noodles. Pour the dressing mixture over and stir well. Serve immediately."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "description": "Ramen Noodle Cole Slaw with head shredded cabbage or 1 pkg. slaw mix, green onions, sliced diagonally, sunflower seeds (more, if desired), sliced almonds.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_126"
+  },
+  {
+    "title": "Ramen Noodle Salad",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1 head cabbage",
+      "2 pkg. Ramen chicken noodles",
+      "1 pkg. frozen peas",
+      "almonds",
+      "walnuts",
+      "6 Tbsp. rice wine vinegar",
+      "1/3 c. vegetables or sunflower oil",
+      "2 chicken flavor pkg. from noodles",
+      "sunflower seeds",
+      "1/4 c. sugar",
+      "cooked chicken"
+    ],
+    "steps": [
+      "Cook noodles for 3 minutes and break into small pieces.",
+      "Chop or grate cabbage.",
+      "Mix drained noodles, cabbage, nuts, chicken and peas in a large bowl.",
+      "Mix flavor packages, oil, vinegar and sugar.",
+      "Pour over cabbage mixture and blend together.",
+      "Top with sunflower seeds and chill.",
+      "Makes a lot."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Ramen Noodle Salad with head cabbage, Ramen chicken noodles, frozen peas, almonds.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_127"
+  },
+  {
+    "title": "Ramen Noodle Vegetable Salad",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1 pkg. Ramen noodles",
+      "1 c. Italian dressing",
+      "1 large pkg. frozen mixed vegetables"
+    ],
+    "steps": [
+      "In a bowl, break up uncooked Ramen noodles.",
+      "Do not use the seasoning packet.",
+      "In a saucepan, cook vegetables until tender. Drain and rinse in cold water.",
+      "Blend into Ramen noodles.",
+      "Pour over Italian dressing and stir.",
+      "Refrigerate for at least 5 hours before serving."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Ramen Noodle Vegetable Salad with Ramen noodles, Italian dressing, large pkg. frozen mixed vegetables.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_128"
+  },
+  {
+    "title": "Ramen Skillet",
+    "dish_category": "ramen",
+    "ingredients": [
+      "1 1/2 lb. ground beef",
+      "2 cans tomato sauce",
+      "1 large jar salsa",
+      "1 medium onion, chopped",
+      "4 Ramen pkg.",
+      "1 to 1 1/2 c. grated cheese"
+    ],
+    "steps": [
+      "Brown ground beef.",
+      "Sprinkle seasoning packets on cooking ground beef.",
+      "Drain off grease.",
+      "Add tomato sauce, salsa and onion. Stir well, then add broken Ramen noodles.",
+      "Stir in just a little. Cover and simmer until noodles are tender, stirring occasionally. When noodles are done, stir until all is combined.",
+      "Sprinkle grated cheese on top.",
+      "Cover, just long enough to melt.",
+      "Serve with salad and garlic bread."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Ramen Skillet with ground beef, s tomato sauce, large jar salsa, medium onion, chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_129"
+  },
+  {
+    "title": "Sushi Su",
+    "dish_category": "sushi",
+    "ingredients": [
+      "1 c. plus 1 Tbsp. plus 1 tsp. sugar",
+      "1 c. Japanese vinegar",
+      "1 tsp. ajinomoto",
+      "2 Tbsp. sea salt (I use Hain sea salt, not to be confused with Hawaiian salt)"
+    ],
+    "steps": [
+      "Combine the ingredients; boil gently until dissolved."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Sushi Su with plus 1 Tbsp. plus 1 tsp. sugar, Japanese vinegar, ajinomoto, sea salt (I use Hain sea salt, not to be confused with Hawaiian salt).",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_130"
+  },
+  {
+    "title": "Taco Salad Chip Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "8 oz. Ortega taco sauce",
+      "8 oz. sour cream",
+      "8 oz. cream cheese",
+      "1 lb. ground beef",
+      "1 pkg. taco seasoning",
+      "shredded lettuce",
+      "1 large diced tomato",
+      "1 medium diced onion",
+      "1 large diced green pepper",
+      "shredded Colby or Cheddar cheese"
+    ],
+    "steps": [
+      "Mix taco sauce, sour cream and cream cheese.",
+      "Spread on pizza pan.",
+      "Brown meat.",
+      "Drain off fat and add taco seasoning.",
+      "Spread over cream mixture.",
+      "Layer with raw vegetables.",
+      "Top with cheese. Serve with chips."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Taco Salad Chip Dip with Ortega taco sauce, sour cream, cream cheese, ground beef.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_131"
+  },
+  {
+    "title": "Taco-Filled Green Pepper",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. Ground Beef",
+      "1 pkg. taco seasoning",
+      "1 san Kidney beans",
+      "1 onion, chopped",
+      "1 C salsa",
+      "4 green peppers",
+      "1 medium Tomato, chopped",
+      "1/2 C cheddar cheese, shredded",
+      "1/2 C sour cream"
+    ],
+    "steps": [
+      "In a large skillet, brown the ground beef. Drain, stir in taco mix, kidney beans, and salsa. Bring to a boil. Reduce heat, and let simmer for about 5 minutes. Cut peppers in half and clean it. Put peppers in boiling water for 3 minutes- drain- spoon the meat mixture into the green pepper. Put pepper in an ungreased pan. Cover, and bake at 350 degrees for 15 to 20 minutes or until peppers are crispy and filling is heated through. Top with tomatoes, cheese, and sour cream."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Taco-Filled Green Pepper with Ground Beef, taco seasoning, san Kidney beans, onion, chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_132"
+  },
+  {
+    "title": "Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "2 (8 oz.) pkg. cream cheese, softened",
+      "1/2 c. mayonnaise or salad dressing",
+      "8 oz. mild taco sauce",
+      "2 to 4 thinly sliced green onions",
+      "1/2 green pepper, chopped",
+      "1 tomato, chopped",
+      "1 c. Mozzarella cheese",
+      "1 c. Cheddar cheese",
+      "1/2 c. black olives (optional)",
+      "tortilla chips"
+    ],
+    "steps": [
+      "Mix together cream cheese and mayonnaise.",
+      "Spread on to a large platter or two dinner plates.",
+      "Freeze for 15 minutes. Spread taco sauce evenly on top.",
+      "Layer remaining ingredients in the written order.",
+      "Serve with tortilla chips."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Taco Dip with cream cheese, softened, mayonnaise or salad dressing, mild taco sauce, to 4 thinly sliced green onions.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_133"
+  },
+  {
+    "title": "Taco Soup",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. hamburger",
+      "1 onion, chopped",
+      "1/2 pkg. dry taco seasoning",
+      "1 can kidney beans",
+      "1 can butter beans",
+      "1 can tomatoes",
+      "1 small can tomato sauce",
+      "1 (12 oz.) can tomato juice or V-8 juice"
+    ],
+    "steps": [
+      "Brown hamburger with onion. Drain.",
+      "Add taco seasoning. Combine meat mixture with all remaining ingredients.",
+      "Simmer 20 minutes.",
+      "Serve with Cheddar cheese, sour cream, crushed corn chips and chopped avocado.",
+      "Let each person create their own. Delicious and fun!"
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Taco Soup with hamburger, onion, chopped, dry taco seasoning, kidney beans.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_134"
+  },
+  {
+    "title": "Taco Casserole",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 small onion, chopped",
+      "1/2 tsp. garlic powder",
+      "1 envelope taco seasoning mix",
+      "1 (8 oz.) can tomato sauce",
+      "1 c. sour cream",
+      "1 c. cottage cheese",
+      "2 c. crushed tortilla chips",
+      "2 c. shredded Cheddar or Monterey Jack cheese"
+    ],
+    "steps": [
+      "Preheat oven to 350\u00b0.",
+      "In a large skillet, brown ground beef; remove from heat and drain off any excess liquid. Add onion, garlic powder, taco seasoning mix and tomato sauce; mix and set aside."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Taco Casserole with ground beef, small onion, chopped, garlic powder, envelope taco seasoning mix.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_135"
+  },
+  {
+    "title": "Cream Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. hamburger",
+      "onion",
+      "1 doz. corn tortillas",
+      "green chili",
+      "2 small cans tomato sauce",
+      "1 can evaporated milk",
+      "Cheddar cheese, grated"
+    ],
+    "steps": [
+      "Fry hamburger with onion.",
+      "Layer corn tortillas (cut in 1/4) in pan.",
+      "Put 1 teaspoon hamburger on each piece, 1 teaspoon green chili on top of hamburger, then 1 teaspoon tomato sauce, top with grated cheese.",
+      "Repeat layers until all ingredients are gone.",
+      "Pour can of milk over all.",
+      "Cover with foil.",
+      "Bake in oven at 350\u00b0 for 30 to 35 minutes until milk evaporates."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Cream Tacos with hamburger, onion, doz. corn tortillas, green chili.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_136"
+  },
+  {
+    "title": "Easy Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 large pkg. cream cheese",
+      "1 can Hormel chili",
+      "2 c. shredded Cheddar cheese"
+    ],
+    "steps": [
+      "In a glass pie pan, layer all three ingredients, placing cream cheese on the bottom of the pan, chili in the middle, shredded Cheddar cheese on top.",
+      "Place in microwave on High for about 5 to 6 minutes.",
+      "Use nacho chips to dip with.",
+      "Great for parties and snacks."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Easy Taco Dip with large pkg. cream cheese, Hormel chili, shredded Cheddar cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_137"
+  },
+  {
+    "title": "Hot Taco Rice",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 onion, chopped",
+      "1 1/2 c. salsa sauce",
+      "1 chicken bouillon cube",
+      "1 can tomato sauce",
+      "1 1/2 c. Minute rice"
+    ],
+    "steps": [
+      "Brown meat and onion in skillet; drain.",
+      "Add salsa and tomato sauce with bouillon cube.",
+      "Bring to boil, then simmer, covered, for 5 minutes."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Hot Taco Rice with ground beef, onion, chopped, salsa sauce, chicken bouillon cube.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_138"
+  },
+  {
+    "title": "Taco Beans",
+    "dish_category": "tacos",
+    "ingredients": [
+      "2 lb. pinto beans",
+      "2 lb. ground meat",
+      "2 cans taco sauce",
+      "1 can roasted green chilies",
+      "1 (No. 2) can tomatoes",
+      "1 tsp. chili powder",
+      "1/2 c. chopped bell pepper",
+      "1/2 tsp. cumin",
+      "2 large onions",
+      "4 garlic buds"
+    ],
+    "steps": [
+      "Cook beans.",
+      "Brown meat, then add other ingredients and simmer for 10 minutes.",
+      "Add meat mixture to beans and simmer for one hour."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Taco Beans with pinto beans, ground meat, s taco sauce, roasted green chilies.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_139"
+  },
+  {
+    "title": "Taco Salad",
+    "dish_category": "tacos",
+    "ingredients": [
+      "3 lb. ground beef",
+      "2 c. chopped onions",
+      "1 c. chopped celery",
+      "1 c. chopped green bell pepper",
+      "3 Tbsp. cumin seed",
+      "3 cloves garlic, minced",
+      "4 tsp. chili powder",
+      "salt and pepper to taste",
+      "8 oz. Velveeta cheese, shredded",
+      "1 (10 oz.) can Ro-Tel tomatoes",
+      "18 c. chopped lettuce",
+      "8 tomatoes, chopped"
+    ],
+    "steps": [
+      "Combine first 7 ingredients in crock-pot; mix well.",
+      "Add salt and pepper.",
+      "Cook on low for 3 to 4 hours or until done to taste. Heat cheese and tomatoes in saucepan until cheese melts, stirring constantly.",
+      "Layer lettuce, ground beef sauce, tomatoes, cheese sauce and crushed corn chips on individual plates.",
+      "Yield:",
+      "12 servings."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Taco Salad with ground beef, chopped onions, chopped celery, chopped green bell pepper.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_140"
+  },
+  {
+    "title": "Southwest Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "2 (15 oz. each) cans black beans, drained and rinsed",
+      "3/4 lb. ground raw turkey",
+      "1/2 c. chopped onion",
+      "1 tsp. chili powder",
+      "1 c. bottled salsa",
+      "1 c. shredded Cheddar cheese",
+      "1 (8 oz.) container sour cream",
+      "3 Tbsp. chopped fresh cilantro",
+      "1/4 tsp. salt",
+      "1/4 tsp. pepper",
+      "1 avocado, chopped fine",
+      "2 plum tomatoes, chopped fine"
+    ],
+    "steps": [
+      "Combine beans, turkey, onion and chili powder in a skillet. Cook over medium heat until turkey is brown.",
+      "Stir occasionally to mash beans and break up turkey.",
+      "Stir in salsa and place in microwave-proof dish.",
+      "Sprinkle with cheese and microwave on High 1 to 2 minutes until cheese is melted.",
+      "Combine sour cream, cilantro, salt and pepper and spread on top.",
+      "Sprinkle with avocado, tomato and green onions.",
+      "Serve with tortilla chips.",
+      "Makes 7 cups."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Southwest Taco Dip with s black beans, drained and rinsed, ground raw turkey, chopped onion, chili powder.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_141"
+  },
+  {
+    "title": "Creamed Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 1/2 lb. ground beef",
+      "1 medium onion, chopped",
+      "1 medium bell pepper, chopped",
+      "1 can Ro-Tel tomatoes",
+      "1 large can Pet milk (evaporated)",
+      "1 lb. Velveeta cheese",
+      "1 pkg. flour tortillas (any size)",
+      "jalapeno peppers (optional)"
+    ],
+    "steps": [
+      "Cook ground beef, onion and bell pepper together in a skillet; drain meat.",
+      "In double boiler, mix the Ro-Tel tomatoes, evaporated milk and Velveeta cheese; heat until cheese melts.",
+      "Layer ingredients from skillet on bottom of ungreased casserole dish, then spread cheese ingredients on top of meat, then layer flour tortillas.",
+      "Repeat layers until all ingredients are used.",
+      "Bake together in a 350\u00b0 oven for 30 minutes."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Creamed Tacos with ground beef, medium onion, chopped, medium bell pepper, chopped, Ro-Tel tomatoes.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_142"
+  },
+  {
+    "title": "Taco Salad (Easier For Kids To Eat Than Traditional Tacos)",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. TVP beef granules",
+      "1 medium onion, chopped",
+      "1 1/4 oz. pkg. taco seasoning mix",
+      "1/2 c. hot water",
+      "1/2 head lettuce, torn into pieces",
+      "6 oz. pkg. corn chips or taco shells, broken up",
+      "3/4 c. shredded Cheddar, American cheese or soy cheese",
+      "2 medium tomatoes, cut into wedges",
+      "taco sauce"
+    ],
+    "steps": [
+      "In a large skillet, rehydrate TVP granules and onion; drain. Stir in dry taco seasoning mix and water.",
+      "Simmer 10 minutes over low heat.",
+      "In a large bowl, combine lettuce, cheese, tomatoes and corn chips.",
+      "Add TVP mixture just before serving.",
+      "Top with sour cream and/or taco sauce.",
+      "Yields 4 to 6 servings."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Taco Salad (Easier For Kids To Eat Than Traditional Tacos) with TVP beef granules, medium onion, chopped, pkg. taco seasoning mix, hot water.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_143"
+  },
+  {
+    "title": "Taco Sauce",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 (8 oz.) cream cheese",
+      "2 Tbsp. sour cream",
+      "2 Tbsp. taco seasoning mix"
+    ],
+    "steps": [
+      "Mix and spread over baked pizza dough.",
+      "Top with green onion stems, tomatoes, lettuce and Mozzarella cheese."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Taco Sauce with cream cheese, sour cream, taco seasoning mix.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_144"
+  },
+  {
+    "title": "Indian Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "6 c. unsifted flour",
+      "1 Tbsp. baking powder",
+      "1 Tbsp. salt",
+      "1/2 c. dry milk",
+      "6 Tbsp. lard or shortening"
+    ],
+    "steps": [
+      "Mix together dry ingredients, add lard or shortening and mix until crumbly.",
+      "Begin adding water until a nice soft dough.",
+      "Roll on floured board to desired size.",
+      "Poke hole in the middle. Either fry in frying pan with 1 inch of oil or electric fryer. Brown to desired color, turn over and fry on the other side and drain."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Indian Tacos with unsifted flour, baking powder, salt, dry milk.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_145"
+  },
+  {
+    "title": "Tacos In Pasta Shells",
+    "dish_category": "tacos",
+    "ingredients": [
+      "18 jumbo pasta shells (1/2 box)",
+      "2 Tbsp. margarine",
+      "1 1/2 lb. ground beef",
+      "1 (3 oz.) pkg. whipped cream cheese with chives",
+      "pkg. taco seasoning",
+      "1/4 tsp. salt",
+      "salsa or taco sauce",
+      "shredded Cheddar cheese",
+      "crushed tortilla chips"
+    ],
+    "steps": [
+      "Cook pasta shells, drain and toss with margarine, set aside. Brown ground beef and drain.",
+      "Stir cream cheese into ground beef, add taco seasoning (enough to taste) and salt, simmer for 5 minutes."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Tacos In Pasta Shells with jumbo pasta shells (1/2 box), margarine, ground beef, whipped cream cheese with chives.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_146"
+  },
+  {
+    "title": "Layered Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. lean ground beef",
+      "1 (4 oz.) can chopped green chilies",
+      "1 (16 oz.) Borden sour cream",
+      "1 pkg. taco seasoning mix",
+      "1 (16 oz.) can refried beans",
+      "1 (6 oz.) frozen avocado dip, thawed",
+      "shredded cheese",
+      "chopped tomatoes",
+      "sliced green onions",
+      "ripe olives"
+    ],
+    "steps": [
+      "In skillet, brown meat; pour off fat.",
+      "Add chilies.",
+      "In small bowl, combine sour cream and taco seasoning.",
+      "In 8-inch spring-form pan or on large plate, spread beans.",
+      "Top with meat mixture, sour cream mixture and avocado dip.",
+      "Cover; chill.",
+      "Garnish and serve with tortilla chips.",
+      "Refrigerate leftovers."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Layered Taco Dip with lean ground beef, chopped green chilies, Borden sour cream, taco seasoning mix.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_147"
+  },
+  {
+    "title": "Easy Taco Dinner",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 lb. ground beef",
+      "1 large chopped onion",
+      "1 envelope taco mix",
+      "1 c. water",
+      "1 pkg. tortilla chips",
+      "1/2 head lettuce, shredded",
+      "2 medium chopped tomatoes",
+      "1 can drained, sliced ripe olives",
+      "1 c. shredded Cheddar or Monterey Jack cheese",
+      "2/3 c. sour cream"
+    ],
+    "steps": [
+      "Cook and stir ground beef and onion in 10-inch skillet until beef is light brown; drain.",
+      "Stir in seasoning mix and water. Heat to boiling; reduce heat and simmer, uncovered, stirring every once in a while, for 10 minutes.",
+      "Top with last ingredients. Serves 6."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Easy Taco Dinner with ground beef, large chopped onion, envelope taco mix, water.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_148"
+  },
+  {
+    "title": "Taco Salad (Cold Appetizer)",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 c. mayonnaise",
+      "1 c. sour cream",
+      "1 pkg. taco mix",
+      "1 to 2 cans refried beans",
+      "2 avocados (ripened)*",
+      "lemon juice",
+      "lettuce, shredded (iceberg)",
+      "2 tomatoes, diced",
+      "1 can black olives, sliced",
+      "2 c. cheese, shredded (your choice - Mozzarella, Monterey Jack, Cheddar, etc.)",
+      "tortilla chips"
+    ],
+    "steps": [
+      "Mix avocados with lemon juice to a spreading consistency.",
+      "In a separate bowl, mix sour cream, mayonnaise and taco mix.",
+      "Set aside.",
+      "Spread all of the avocado mix on the bottom of a 13 x 9-inch pan or large plate.",
+      "Spread 1 layer of refried beans on top of avocados.",
+      "Spread 1 layer of sour cream mix.",
+      "Spread the rest of the beans.",
+      "Spread the rest of the sour cream mix."
+    ],
+    "prep_time_min": 60,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Taco Salad (Cold Appetizer) with mayonnaise, sour cream, taco mix, to 2 cans refried beans.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_149"
+  },
+  {
+    "title": "Taco Salad Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "8 oz. sour cream",
+      "8 oz. cream cheese",
+      "10 oz. chunky salsa",
+      "1 1/2 lb. ground beef, browned, drained and cooled",
+      "1 small onion",
+      "2 c. shredded lettuce",
+      "2 diced tomatoes",
+      "10 oz. shredded Cheddar cheese",
+      "1 small can black olives, chopped (optional)",
+      "1/2 c. sliced jalapeno peppers (optional)"
+    ],
+    "steps": [
+      "Mix together sour cream and cream cheese and spread on pizza pan.",
+      "Spread on salsa and crumble on ground beef.",
+      "Next, sprinkle onion.",
+      "Add lettuce, tomatoes and cheese.",
+      "Top with black olives and jalapeno peppers.",
+      "Serve with tortilla chips."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Taco Salad Dip with sour cream, cream cheese, chunky salsa, ground beef, browned, drained and cooled.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_150"
+  },
+  {
+    "title": "Tam's Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 large can refried beans",
+      "1 pkg. taco seasoning",
+      "1 pkg. shredded cheese",
+      "1 c. black olives, chopped",
+      "1 c. green onions (optional)",
+      "lettuce",
+      "1 large tomato",
+      "1 large sour cream",
+      "1 bag Tostitos"
+    ],
+    "steps": [
+      "Mix taco seasoning with beans in rectangular cake pan.",
+      "Spread evenly.",
+      "Spread sour cream over top.",
+      "Spread cheese, olives and onions.",
+      "Put as much lettuce as you like.",
+      "Top with tomato.",
+      "Dip chips and enjoy.",
+      "(Good with hot sauce, too!)"
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Tam's Taco Dip with large can refried beans, taco seasoning, shredded cheese, black olives, chopped.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_151"
+  },
+  {
+    "title": "Hot Taco Dip",
+    "dish_category": "tacos",
+    "ingredients": [
+      "1 can Hormel chili (no beans)",
+      "1 (8 oz.) cream cheese",
+      "1 (6 oz.) Cheddar cheese",
+      "1 (6 oz.) Monterey Jack cheese"
+    ],
+    "steps": [
+      "In a 9 x 13-inch glass dish, spray with nonstick cooking spray.",
+      "Spread softened cream cheese onto dish.",
+      "Spoon chili on top of cream cheese.",
+      "Spread to cover dish.",
+      "Sprinkle shredded Cheddar and Monterey Jack cheese on top.",
+      "Bake for 25 minutes at 350\u00b0.",
+      "Serve with nacho chips."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "gluten_free",
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Hot Taco Dip with Hormel chili (no beans), cream cheese, Cheddar cheese, Monterey Jack cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_152"
+  },
+  {
+    "title": "Chicken Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "2 lb. chicken",
+      "3 large tomatoes",
+      "1 head lettuce",
+      "13 oz. Cheddar cheese",
+      "10 taco shells",
+      "1 c. water",
+      "2 pkg. taco seasoning (hot or mild)"
+    ],
+    "steps": [
+      "In a large Dutch oven, put chicken in water and boil until tender.",
+      "Cool.",
+      "While cooking chicken, cut lettuce and tomatoes up in small cubes and shred cheese.",
+      "When chicken is cooled, tear from bone and cut up into small pieces.",
+      "Oil a large skillet, put chicken in with one cup water.",
+      "Add taco sauce and seasoning into chicken.",
+      "Let simmer for 20 minutes.",
+      "Ready to serve."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Chicken Tacos with chicken, large tomatoes, head lettuce, Cheddar cheese.",
+    "source": "corbt/all-recipes (Hugging Face)",
+    "id": "rec_153"
+  },
+  {
+    "title": "Classic Grilled Chicken Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine lettuce",
+      "grilled chicken breast",
+      "parmesan",
+      "garlic",
+      "lemon juice",
+      "olive oil",
+      "sourdough croutons"
+    ],
+    "steps": [
+      "Prepare and measure romaine lettuce, grilled chicken breast, parmesan.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Crisp romaine tossed in tangy dressing with grilled chicken.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_154"
+  },
+  {
+    "title": "Quick 15-Minute Kale Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "baby kale",
+      "romaine",
+      "parmesan",
+      "olive oil",
+      "lemon",
+      "dijon mustard",
+      "gluten free croutons"
+    ],
+    "steps": [
+      "Prepare and measure baby kale, romaine, parmesan.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Fast vegetarian kale and romaine caesar salad.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_155"
+  },
+  {
+    "title": "Vegan Avocado Chickpea Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine lettuce",
+      "roasted chickpeas",
+      "avocado",
+      "tahini",
+      "lemon juice",
+      "nutritional yeast",
+      "capers"
+    ],
+    "steps": [
+      "Prepare and measure romaine lettuce, roasted chickpeas, avocado.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Plant-based creamy tahini caesar with protein-rich chickpeas.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_156"
+  },
+  {
+    "title": "Spicy Blackened Shrimp Caesar Bowl",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine",
+      "shrimp",
+      "cayenne",
+      "garlic",
+      "olive oil",
+      "lemon",
+      "parmesan"
+    ],
+    "steps": [
+      "Prepare and measure romaine, shrimp, cayenne.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Zesty blackened shrimp over crisp caesar greens.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_157"
+  },
+  {
+    "title": "Gluten-Free Crispy Tofu Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine",
+      "firm tofu",
+      "tamari",
+      "lemon",
+      "tahini",
+      "olive oil",
+      "garlic"
+    ],
+    "steps": [
+      "Prepare and measure romaine, firm tofu, tamari.",
+      "Cook and combine remaining ingredients for about 22 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 22,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "High-protein vegan and gluten-free caesar bowl.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_158"
+  },
+  {
+    "title": "Mediterranean Yogurt Caesar Salad",
+    "dish_category": "caesar_salad",
+    "ingredients": [
+      "romaine",
+      "greek yogurt",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "roasted chickpeas"
+    ],
+    "steps": [
+      "Prepare and measure romaine, greek yogurt, lemon.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Lighter protein-packed yogurt dressing caesar without gluten.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_159"
+  },
+  {
+    "title": "Flourless Dark Chocolate Almond Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "dark chocolate",
+      "almond flour",
+      "eggs",
+      "cocoa powder",
+      "espresso",
+      "coconut oil"
+    ],
+    "steps": [
+      "Prepare and measure dark chocolate, almond flour, eggs.",
+      "Cook and combine remaining ingredients for about 35 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 35,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Rich gluten-free and dairy-free dark chocolate cake.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_160"
+  },
+  {
+    "title": "15-Minute Vegan Chocolate Mug Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "oat flour",
+      "cocoa powder",
+      "almond milk",
+      "maple syrup",
+      "coconut oil",
+      "dark chocolate chips"
+    ],
+    "steps": [
+      "Prepare and measure oat flour, cocoa powder, almond milk.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Single-pan quick plant-based and gluten-free chocolate treat.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_161"
+  },
+  {
+    "title": "Classic Double Chocolate Layer Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "all purpose flour",
+      "cocoa powder",
+      "butter",
+      "eggs",
+      "milk",
+      "sugar",
+      "dark chocolate"
+    ],
+    "steps": [
+      "Prepare and measure all purpose flour, cocoa powder, butter.",
+      "Cook and combine remaining ingredients for about 55 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Moist bakery-style chocolate fudge cake.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_162"
+  },
+  {
+    "title": "Spicy Mexican Cinnamon Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "almond flour",
+      "cocoa powder",
+      "cinnamon",
+      "cayenne",
+      "maple syrup",
+      "coconut milk"
+    ],
+    "steps": [
+      "Prepare and measure almond flour, cocoa powder, cinnamon.",
+      "Cook and combine remaining ingredients for about 40 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 40,
+    "diet_tags": [
+      "gluten_free",
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Warm spiced vegan and gluten-free chocolate cake.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_163"
+  },
+  {
+    "title": "Quick Zucchini Chocolate Skillet Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "whole wheat flour",
+      "cocoa powder",
+      "shredded zucchini",
+      "oat milk",
+      "olive oil",
+      "sugar"
+    ],
+    "steps": [
+      "Prepare and measure whole wheat flour, cocoa powder, shredded zucchini.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Tender vegetarian and dairy-free chocolate cake.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_164"
+  },
+  {
+    "title": "High-Protein Greek Yogurt Chocolate Cake",
+    "dish_category": "chocolate_cake",
+    "ingredients": [
+      "oat flour",
+      "greek yogurt",
+      "cocoa powder",
+      "eggs",
+      "honey",
+      "dark chocolate"
+    ],
+    "steps": [
+      "Prepare and measure oat flour, greek yogurt, cocoa powder.",
+      "Cook and combine remaining ingredients for about 30 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Wholesome high-protein chocolate cake.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_165"
+  },
+  {
+    "title": "Classic Smash Beef Cheeseburger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "ground beef",
+      "cheddar",
+      "brioche bun",
+      "onion",
+      "pickles",
+      "mustard"
+    ],
+    "steps": [
+      "Prepare and measure ground beef, cheddar, brioche bun.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Crispy-edged diner smash burger in under 20 minutes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_166"
+  },
+  {
+    "title": "Spicy Black Bean Vegan Burger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "black beans",
+      "oats",
+      "chipotle",
+      "red onion",
+      "garlic",
+      "lettuce",
+      "tomato",
+      "gluten free bun"
+    ],
+    "steps": [
+      "Prepare and measure black beans, oats, chipotle.",
+      "Cook and combine remaining ingredients for about 22 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 22,
+    "diet_tags": [
+      "dairy_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hearty plant-based smoky bean patty without dairy or gluten.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_167"
+  },
+  {
+    "title": "Crispy Portobello Mushroom Burger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "portobello mushroom",
+      "olive oil",
+      "balsamic vinegar",
+      "garlic",
+      "lettuce",
+      "tomato",
+      "avocado"
+    ],
+    "steps": [
+      "Prepare and measure portobello mushroom, olive oil, balsamic vinegar.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Savory vegetarian and dairy-free burger.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_168"
+  },
+  {
+    "title": "Lean Turkey Avocado Lettuce-Wrap Burger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "ground turkey",
+      "avocado",
+      "butter lettuce",
+      "tomato",
+      "garlic",
+      "cumin"
+    ],
+    "steps": [
+      "Prepare and measure ground turkey, avocado, butter lettuce.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Low-carb, gluten-free, dairy-free high-protein burger.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_169"
+  },
+  {
+    "title": "Crispy Quinoa Chickpea Veggie Burger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "chickpeas",
+      "quinoa",
+      "carrot",
+      "cumin",
+      "spinach",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure chickpeas, quinoa, carrot.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Wholesome vegan protein burger.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_170"
+  },
+  {
+    "title": "Jalapeno Pepper Jack Beef Burger",
+    "dish_category": "hamburger",
+    "ingredients": [
+      "ground beef",
+      "jalapeno",
+      "pepper jack cheese",
+      "brioche bun",
+      "chili powder"
+    ],
+    "steps": [
+      "Prepare and measure ground beef, jalapeno, pepper jack cheese.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Fiery spicy burger ready in 20 minutes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_171"
+  },
+  {
+    "title": "Classic Beef & Ricotta Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "lasagna noodles",
+      "ground beef",
+      "ricotta",
+      "mozzarella",
+      "tomato sauce",
+      "garlic",
+      "basil"
+    ],
+    "steps": [
+      "Prepare and measure lasagna noodles, ground beef, ricotta.",
+      "Cook and combine remaining ingredients for about 65 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 65,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Rich baked Italian meat lasagna.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_172"
+  },
+  {
+    "title": "Roasted Vegetable Spinach Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "lasagna sheets",
+      "spinach",
+      "zucchini",
+      "ricotta",
+      "mozzarella",
+      "marinara"
+    ],
+    "steps": [
+      "Prepare and measure lasagna sheets, spinach, zucchini.",
+      "Cook and combine remaining ingredients for about 50 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Hearty vegetarian three-cheese veggie lasagna.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_173"
+  },
+  {
+    "title": "Gluten-Free Zucchini Ribbon Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "zucchini",
+      "ground turkey",
+      "tomato sauce",
+      "basil",
+      "olive oil",
+      "garlic"
+    ],
+    "steps": [
+      "Prepare and measure zucchini, ground turkey, tomato sauce.",
+      "Cook and combine remaining ingredients for about 45 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 45,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Light high-protein lasagna using zucchini instead of pasta.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_174"
+  },
+  {
+    "title": "Vegan Lentil Cashew Cream Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "brown lentils",
+      "zucchini",
+      "cashews",
+      "nutritional yeast",
+      "marinara",
+      "spinach",
+      "garlic"
+    ],
+    "steps": [
+      "Prepare and measure brown lentils, zucchini, cashews.",
+      "Cook and combine remaining ingredients for about 50 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 50,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Plant-based dairy-free and gluten-free lentil lasagna.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_175"
+  },
+  {
+    "title": "Quick 25-Minute Skillet Tofu Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "gluten free pasta",
+      "crumbled tofu",
+      "marinara",
+      "spinach",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure gluten free pasta, crumbled tofu, marinara.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fast weeknight vegan skillet lasagna.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_176"
+  },
+  {
+    "title": "Spicy Arrabbiata Sausage Lasagna",
+    "dish_category": "lasagna",
+    "ingredients": [
+      "lasagna noodles",
+      "italian sausage",
+      "chili flakes",
+      "mozzarella",
+      "tomato sauce"
+    ],
+    "steps": [
+      "Prepare and measure lasagna noodles, italian sausage, chili flakes.",
+      "Cook and combine remaining ingredients for about 55 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 55,
+    "diet_tags": [
+      "spicy"
+    ],
+    "description": "Bold spicy baked lasagna.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_177"
+  },
+  {
+    "title": "15-Minute Crispy Tofu Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "rice noodles",
+      "firm tofu",
+      "tamarind paste",
+      "tamari",
+      "peanuts",
+      "bean sprouts",
+      "lime"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, firm tofu, tamarind paste.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Quick authentic vegan and gluten-free pad thai.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_178"
+  },
+  {
+    "title": "Spicy Shrimp & Garlic Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "chili flakes",
+      "garlic",
+      "fish sauce",
+      "lime",
+      "peanuts",
+      "egg"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, shrimp, chili flakes.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Savory high-protein street-style pad thai.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_179"
+  },
+  {
+    "title": "Classic Chicken Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "rice noodles",
+      "chicken breast",
+      "tamarind",
+      "egg",
+      "green onions",
+      "peanuts",
+      "lime"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, chicken breast, tamarind.",
+      "Cook and combine remaining ingredients for about 22 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 22,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Balanced sweet-tangy gluten-free chicken pad thai.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_180"
+  },
+  {
+    "title": "Plant-Based Peanut Veggie Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "rice noodles",
+      "broccoli",
+      "carrot",
+      "peanut butter",
+      "tamari",
+      "lime",
+      "sriracha"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, broccoli, carrot.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "gluten_free",
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Dairy-free spicy vegan noodle stir-fry.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_181"
+  },
+  {
+    "title": "Extra-Spicy Chili Garlic Tofu Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "rice noodles",
+      "tofu",
+      "sriracha",
+      "garlic",
+      "tamari",
+      "peanuts",
+      "scallions"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, tofu, sriracha.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fiery meatless pad thai ready in 20 minutes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_182"
+  },
+  {
+    "title": "Low-Carb Zucchini Noodle Pad Thai",
+    "dish_category": "pad_thai",
+    "ingredients": [
+      "zucchini noodles",
+      "shrimp",
+      "tamarind",
+      "lime",
+      "peanuts",
+      "chili"
+    ],
+    "steps": [
+      "Prepare and measure zucchini noodles, shrimp, tamarind.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Ultra-fast gluten-free and dairy-free pad thai.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_183"
+  },
+  {
+    "title": "Fluffy Classic Buttermilk Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "flour",
+      "buttermilk",
+      "egg",
+      "butter",
+      "baking powder",
+      "maple syrup"
+    ],
+    "steps": [
+      "Prepare and measure flour, buttermilk, egg.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Golden diner-style breakfast pancakes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_184"
+  },
+  {
+    "title": "15-Minute Banana Oat Blender Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "rolled oats",
+      "banana",
+      "almond milk",
+      "cinnamon",
+      "baking powder",
+      "maple syrup"
+    ],
+    "steps": [
+      "Prepare and measure rolled oats, banana, almond milk.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Quick vegan, dairy-free, and gluten-free pancakes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_185"
+  },
+  {
+    "title": "High-Protein Cottage Cheese Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "rolled oats",
+      "eggs",
+      "greek yogurt",
+      "vanilla",
+      "berries"
+    ],
+    "steps": [
+      "Prepare and measure rolled oats, eggs, greek yogurt.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Protein-packed gluten-free breakfast stack.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_186"
+  },
+  {
+    "title": "Vegan Blueberry Buckwheat Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "buckwheat flour",
+      "oat milk",
+      "blueberries",
+      "coconut oil",
+      "maple syrup"
+    ],
+    "steps": [
+      "Prepare and measure buckwheat flour, oat milk, blueberries.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "vegetarian"
+    ],
+    "description": "Wholesome plant-based gluten-free berry pancakes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_187"
+  },
+  {
+    "title": "Dairy-Free Lemon Ricotta-Style Almond Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "almond flour",
+      "coconut milk",
+      "lemon zest",
+      "eggs",
+      "maple syrup"
+    ],
+    "steps": [
+      "Prepare and measure almond flour, coconut milk, lemon zest.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Light citrus gluten-free and dairy-free pancakes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_188"
+  },
+  {
+    "title": "Cinnamon Apple Spelt Pancakes",
+    "dish_category": "pancakes",
+    "ingredients": [
+      "spelt flour",
+      "apple",
+      "oat milk",
+      "cinnamon",
+      "maple syrup"
+    ],
+    "steps": [
+      "Prepare and measure spelt flour, apple, oat milk.",
+      "Cook and combine remaining ingredients for about 22 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 22,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Warm spiced vegan pancakes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_189"
+  },
+  {
+    "title": "Quick 20-Minute Margherita Flatbread Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "fresh mozzarella",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure pizza dough, tomato sauce, fresh mozzarella.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "vegetarian"
+    ],
+    "description": "Classic vegetarian stone-baked style pizza.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_190"
+  },
+  {
+    "title": "Gluten-Free Cauliflower Crust Veggie Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "cauliflower",
+      "almond flour",
+      "tomato sauce",
+      "bell pepper",
+      "mushrooms",
+      "spinach",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure cauliflower, almond flour, tomato sauce.",
+      "Cook and combine remaining ingredients for about 30 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 30,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Plant-based dairy-free and gluten-free crisp pizza.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_191"
+  },
+  {
+    "title": "Classic Pepperoni & Hot Honey Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "pizza dough",
+      "pepperoni",
+      "mozzarella",
+      "tomato sauce",
+      "chili flakes",
+      "hot sauce"
+    ],
+    "steps": [
+      "Prepare and measure pizza dough, pepperoni, mozzarella.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "spicy"
+    ],
+    "description": "Spicy crispy pepperoni pizza.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_192"
+  },
+  {
+    "title": "Vegan Roasted Mushroom Truffle Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "pizza dough",
+      "cremini mushrooms",
+      "garlic",
+      "olive oil",
+      "arugula",
+      "nutritional yeast"
+    ],
+    "steps": [
+      "Prepare and measure pizza dough, cremini mushrooms, garlic.",
+      "Cook and combine remaining ingredients for about 22 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 22,
+    "diet_tags": [
+      "dairy_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Savory dairy-free vegan pizza ready in 22 minutes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_193"
+  },
+  {
+    "title": "High-Protein Chickpea Crust Pesto Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "chickpea flour",
+      "basil pesto",
+      "cherry tomatoes",
+      "spinach",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure chickpea flour, basil pesto, cherry tomatoes.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Quick gluten-free and vegan protein pizza.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_194"
+  },
+  {
+    "title": "Spicy Buffalo Chickpea Pizza",
+    "dish_category": "pizza",
+    "ingredients": [
+      "gluten free crust",
+      "chickpeas",
+      "hot sauce",
+      "red onion",
+      "olive oil",
+      "cilantro"
+    ],
+    "steps": [
+      "Prepare and measure gluten free crust, chickpeas, hot sauce.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fiery meatless pizza under 25 minutes.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_195"
+  },
+  {
+    "title": "15-Minute Spicy Miso Shiitake Ramen",
+    "dish_category": "ramen",
+    "ingredients": [
+      "ramen noodles",
+      "white miso",
+      "shiitake mushrooms",
+      "sriracha",
+      "garlic",
+      "ginger",
+      "bok choy"
+    ],
+    "steps": [
+      "Prepare and measure ramen noodles, white miso, shiitake mushrooms.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fast umami-rich vegan and dairy-free noodle soup.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_196"
+  },
+  {
+    "title": "Rich Chicken Shoyu Ramen Bowl",
+    "dish_category": "ramen",
+    "ingredients": [
+      "ramen noodles",
+      "chicken broth",
+      "chicken breast",
+      "soy sauce",
+      "soft boiled egg",
+      "scallions"
+    ],
+    "steps": [
+      "Prepare and measure ramen noodles, chicken broth, chicken breast.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "high_protein"
+    ],
+    "description": "Savory high-protein Japanese noodle soup.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_197"
+  },
+  {
+    "title": "Gluten-Free Rice Noodle Coconut Curry Ramen",
+    "dish_category": "ramen",
+    "ingredients": [
+      "rice noodles",
+      "coconut milk",
+      "red curry paste",
+      "tofu",
+      "spinach",
+      "lime",
+      "tamari"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, coconut milk, red curry paste.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "gluten_free",
+      "high_protein",
+      "vegetarian"
+    ],
+    "description": "Creamy dairy-free vegan and gluten-free ramen.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_198"
+  },
+  {
+    "title": "Spicy Chili Garlic Tofu Ramen",
+    "dish_category": "ramen",
+    "ingredients": [
+      "ramen noodles",
+      "crispy tofu",
+      "chili oil",
+      "garlic",
+      "miso",
+      "sesame",
+      "scallions"
+    ],
+    "steps": [
+      "Prepare and measure ramen noodles, crispy tofu, chili oil.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "dairy_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fiery 18-minute plant-based ramen.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_199"
+  },
+  {
+    "title": "Quick Sesame Peanut Veggie Ramen",
+    "dish_category": "ramen",
+    "ingredients": [
+      "ramen noodles",
+      "peanut butter",
+      "miso",
+      "garlic",
+      "spinach",
+      "chili flakes"
+    ],
+    "steps": [
+      "Prepare and measure ramen noodles, peanut butter, miso.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "spicy",
+      "vegetarian"
+    ],
+    "description": "Creamy vegan weeknight noodle bowl.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_200"
+  },
+  {
+    "title": "20-Minute Sesame Ginger Edamame Ramen",
+    "dish_category": "ramen",
+    "ingredients": [
+      "rice noodles",
+      "edamame",
+      "ginger",
+      "garlic",
+      "tamari",
+      "sesame oil",
+      "chili"
+    ],
+    "steps": [
+      "Prepare and measure rice noodles, edamame, ginger.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Gluten-free, vegan, high-protein ramen.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_201"
+  },
+  {
+    "title": "Quick Avocado Cucumber Maki Sushi",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "avocado",
+      "cucumber",
+      "rice vinegar",
+      "tamari"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, nori, avocado.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fresh vegan, dairy-free, and gluten-free sushi rolls.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_202"
+  },
+  {
+    "title": "Spicy Salmon & Avocado Sushi Bowl",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "fresh salmon",
+      "avocado",
+      "cucumber",
+      "sriracha",
+      "nori",
+      "tamari"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, fresh salmon, avocado.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Fast 15-minute high-protein deconstructed sushi.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_203"
+  },
+  {
+    "title": "Crispy Tofu & Mango Sushi Roll",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "crispy tofu",
+      "mango",
+      "avocado",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, nori, crispy tofu.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Sweet-savory plant-based and gluten-free roll.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_204"
+  },
+  {
+    "title": "High-Protein Spicy Tuna Poke Sushi",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "ahi tuna",
+      "sriracha",
+      "sesame oil",
+      "avocado",
+      "edamame",
+      "nori"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, ahi tuna, sriracha.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "Quick gluten-free and dairy-free spicy tuna bowl.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_205"
+  },
+  {
+    "title": "Roasted Sweet Potato Tempura-Style Roll",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "sweet potato",
+      "avocado",
+      "tamari",
+      "sesame"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, nori, sweet potato.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hearty vegan and gluten-free sushi roll.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_206"
+  },
+  {
+    "title": "Classic California Crab & Avocado Roll",
+    "dish_category": "sushi",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "crab",
+      "avocado",
+      "cucumber",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Prepare and measure sushi rice, nori, crab.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free"
+    ],
+    "description": "Refreshing coastal sushi roll.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_207"
+  },
+  {
+    "title": "15-Minute Spicy Black Bean Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "black beans",
+      "cumin",
+      "chili powder",
+      "avocado",
+      "lime",
+      "cilantro"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, black beans, cumin.",
+      "Cook and combine remaining ingredients for about 15 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 15,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Fast vegan, dairy-free, and gluten-free street tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_208"
+  },
+  {
+    "title": "Crispy Baja Fish Tacos with Lime Slaw",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "cod",
+      "cabbage",
+      "lime",
+      "cilantro",
+      "jalapeno",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, cod, cabbage.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "spicy"
+    ],
+    "description": "Fresh coastal gluten-free and dairy-free fish tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_209"
+  },
+  {
+    "title": "Smoky Chipotle Chicken Street Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "chicken breast",
+      "chipotle",
+      "onion",
+      "cilantro",
+      "lime"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, chicken breast, chipotle.",
+      "Cook and combine remaining ingredients for about 20 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 20,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy"
+    ],
+    "description": "High-protein spicy gluten-free tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_210"
+  },
+  {
+    "title": "Roasted Cauliflower & Chickpea Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "cauliflower",
+      "chickpeas",
+      "smoked paprika",
+      "avocado",
+      "lime"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, cauliflower, chickpeas.",
+      "Cook and combine remaining ingredients for about 25 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 25,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Hearty plant-based gluten-free tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_211"
+  },
+  {
+    "title": "Spicy Korean-Style Tofu Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "firm tofu",
+      "gochujang",
+      "cabbage",
+      "scallions",
+      "sesame"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, firm tofu, gochujang.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Bold vegan gluten-free fusion tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_212"
+  },
+  {
+    "title": "Classic Seasoned Beef Street Tacos",
+    "dish_category": "tacos",
+    "ingredients": [
+      "corn tortillas",
+      "ground beef",
+      "cumin",
+      "garlic",
+      "onion",
+      "cilantro",
+      "lime"
+    ],
+    "steps": [
+      "Prepare and measure corn tortillas, ground beef, cumin.",
+      "Cook and combine remaining ingredients for about 18 minutes until ready.",
+      "Plate warm and garnish to taste."
+    ],
+    "prep_time_min": 18,
+    "diet_tags": [
+      "dairy_free",
+      "gluten_free",
+      "high_protein"
+    ],
+    "description": "Quick weeknight gluten-free and dairy-free tacos.",
+    "source": "Curated domain recipe supplement",
+    "id": "rec_213"
+  }
+]

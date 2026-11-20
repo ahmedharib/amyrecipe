@@ -1,0 +1,22 @@
+{
+  "total_recipes": 213,
+  "hf_public_recipes": 153,
+  "curated_supplement_recipes": 60,
+  "total_test_queries": 46,
+  "classes": {
+    "caesar_salad": 14,
+    "chocolate_cake": 29,
+    "hamburger": 29,
+    "lasagna": 29,
+    "pad_thai": 6,
+    "pancakes": 29,
+    "pizza": 29,
+    "ramen": 12,
+    "sushi": 7,
+    "tacos": 29
+  },
+  "sources": [
+    "corbt/all-recipes (Hugging Face)",
+    "Curated domain recipe supplement"
+  ]
+}

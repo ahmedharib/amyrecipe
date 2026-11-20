@@ -1,0 +1,187 @@
+{
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "python": "3.13.6"
+  },
+  "vision_results": [
+    {
+      "pipeline": "Vision",
+      "model": "ScratchCNN (4-block)",
+      "precision": "FP32",
+      "top1_acc": 0.558,
+      "top5_acc": 0.9432,
+      "size_mb": 1.63,
+      "latency_ms": 10.4
+    },
+    {
+      "pipeline": "Vision",
+      "model": "ResNet18 Fine-Tuned",
+      "precision": "FP32",
+      "top1_acc": 0.924,
+      "top5_acc": 0.9956,
+      "size_mb": 42.73,
+      "latency_ms": 20.97
+    },
+    {
+      "pipeline": "Vision",
+      "model": "ResNet18 Quantized (ONNX)",
+      "precision": "INT8",
+      "top1_acc": 0.9228,
+      "top5_acc": 0.9956,
+      "size_mb": 10.76,
+      "latency_ms": 3.19
+    }
+  ],
+  "retrieval_results": [
+    {
+      "pipeline": "Retrieval",
+      "model": "Regex + TF-IDF Cosine",
+      "precision": "N/A",
+      "recall_at_5": 0.7938,
+      "hit_at_5": 0.9565,
+      "mrr": 0.9058,
+      "size_mb": 0.033,
+      "latency_ms": 0.93
+    },
+    {
+      "pipeline": "Retrieval",
+      "model": "EmbeddingBag + MLP (Trained)",
+      "precision": "FP32",
+      "recall_at_5": 0.6952,
+      "hit_at_5": 0.8696,
+      "mrr": 0.787,
+      "size_mb": 0.69,
+      "latency_ms": 1.08
+    },
+    {
+      "pipeline": "Retrieval",
+      "model": "Fine-Tuned MiniLM (BERT)",
+      "precision": "FP32",
+      "recall_at_5": 0.8589,
+      "hit_at_5": 1.0,
+      "mrr": 0.9428,
+      "size_mb": 86.85,
+      "latency_ms": 6.92
+    },
+    {
+      "pipeline": "Retrieval",
+      "model": "Quantized MiniLM (ONNX)",
+      "precision": "INT8",
+      "recall_at_5": 0.8317,
+      "hit_at_5": 0.9783,
+      "mrr": 0.942,
+      "size_mb": 22.3,
+      "latency_ms": 1.95
+    }
+  ],
+  "failure_examples": [
+    {
+      "type": "vision",
+      "image_path": "data\\food101_10class\\test\\caesar_salad\\130246.jpg",
+      "true_label": "caesar_salad",
+      "predicted_label": "tacos"
+    },
+    {
+      "type": "vision",
+      "image_path": "data\\food101_10class\\test\\caesar_salad\\1348253.jpg",
+      "true_label": "caesar_salad",
+      "predicted_label": "lasagna"
+    },
+    {
+      "type": "vision",
+      "image_path": "data\\food101_10class\\test\\caesar_salad\\1427802.jpg",
+      "true_label": "caesar_salad",
+      "predicted_label": "pad_thai"
+    },
+    {
+      "type": "retrieval",
+      "model": "Regex + TF-IDF Cosine",
+      "query": "dairy free sweet cocoa treat",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_009",
+        "rec_031"
+      ],
+      "returned_ids": [
+        "rec_206",
+        "rec_204",
+        "rec_213"
+      ]
+    },
+    {
+      "type": "retrieval",
+      "model": "Regex + TF-IDF Cosine",
+      "query": "melted dark cocoa almond dessert without dairy",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_031"
+      ],
+      "returned_ids": [
+        "rec_160",
+        "rec_167",
+        "rec_161"
+      ]
+    },
+    {
+      "type": "retrieval",
+      "model": "EmbeddingBag + MLP (Trained)",
+      "query": "meatless Italian baked pasta with spinach",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_077",
+        "rec_173",
+        "rec_175"
+      ],
+      "returned_ids": [
+        "rec_195",
+        "rec_052",
+        "rec_188"
+      ]
+    },
+    {
+      "type": "retrieval",
+      "model": "EmbeddingBag + MLP (Trained)",
+      "query": "dairy free sweet cocoa treat",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_009",
+        "rec_031"
+      ],
+      "returned_ids": [
+        "rec_126",
+        "rec_046",
+        "rec_130"
+      ]
+    },
+    {
+      "type": "retrieval",
+      "model": "EmbeddingBag + MLP (Trained)",
+      "query": "crunchy romaine greens with creamy garlicky tahini",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_156",
+        "rec_158"
+      ],
+      "returned_ids": [
+        "rec_166",
+        "rec_184",
+        "rec_167"
+      ]
+    },
+    {
+      "type": "retrieval",
+      "model": "Quantized MiniLM (ONNX)",
+      "query": "melted dark cocoa almond dessert without dairy",
+      "dish_hint": null,
+      "expected_ids": [
+        "rec_031"
+      ],
+      "returned_ids": [
+        "rec_160",
+        "rec_161",
+        "rec_163"
+      ]
+    }
+  ]
+}
